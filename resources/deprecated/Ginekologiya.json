@@ -1,0 +1,1490 @@
+{
+  "UseRId": true,
+  "Questions": [
+    {
+      "RId": 3,
+      "Title": "Antiestrogen preparatların istifadəsinə göstəriş hansıdır?",
+      "Answers": [
+        "Metrorragiya ",
+        "Endometrit ",
+        "Amenoreya",
+        "Anovulyasiya ",
+        "Alqodismenoreya"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Aşağıdakı hallardan hansı ağrını xarakterizə etmir?",
+      "Answers": [
+        "Batıcı ağrı",
+        "Tutmaşəkilli ağrı",
+        "Kəsici ağrı ",
+        "Dartıcı ağrı",
+        "Uçucu ağrı"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Aşağıdakı xəstəliklərin hansında uşaqlıq yolu şırınqa edilir?",
+      "Answers": [
+        "Salpingit",
+        "Peritonit",
+        "Kolpit",
+        "Mioma",
+        "Retension kistalar"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Balneoterapiya nədir?",
+      "Answers": [
+        "Palçıqla müalicə ",
+        "İstisu ilə müalicə ",
+        "Maqnit sahəsi ilə müalicə ",
+        "Mineral sularla müalicə ",
+        "Parafinlə müalicə"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Dərman elektrofarezi hansı preparatla aparıla bilər?",
+      "Answers": [
+        "Amidopirin ",
+        "Şüşəyəbənzər cisim",
+        "Plazmol",
+        "Oksitasin",
+        "Aloe"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Dərman elektrofarezi proseduru nə qədər müddət ərzində aparılır?",
+      "Answers": [
+        "5 dəqiqə",
+        "20-30 dəq ",
+        "10 dəqiqə",
+        "15 dəqiqə",
+        "1 saat"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Estrogen preparatların təyininə əks göstəriş hansıdır?",
+      "Answers": [
+        "Disfunksional qanaxma ",
+        "Sonsuzluq ",
+        "Amenoreya ",
+        "İnfantilizm ",
+        "Mioma "
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Estrogen preparatların təyininə göstəriş hansıdır?",
+      "Answers": [
+        "İnfantilizm",
+        "Bartolinit",
+        "Mioma ",
+        "Endometrit ",
+        "Tndometrioz"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Estrogenlərin bioloji xüsusiyyətlərinə nə aid deyil?",
+      "Answers": [
+        "İkincili cinsi əlamətlər əmələ gəlir",
+        "Daxili sekresiya vəzisinin funksional inkişaf etmə dövründə ən yüksək səviyyəyə çatır",
+        "Cinsiyyət orqanlarının hiperemiyasına və maddələr mübadiləsinin güclənməsinə səbəb olur",
+        "Enerji mənbəyi olan fosfor birləşməsinin miqdarının artmasına səbəb olur",
+        "Uşaqlığın spontan yığılmasına, cinsi hissiyyatın yaranmasına səbəb olur"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Fizioterapevtik müalicə üsuluna nə aid deyil?",
+      "Answers": [
+        "Palçıq müalicəsi",
+        "İqlim müalicəsi",
+        "Hidroterapiya",
+        "Balneoterapiya",
+        "Hormonoterapiya"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Follikul stimuləedici hormon nəyə səbəb olur?",
+      "Answers": [
+        "Follikulların inkişafına, yetişməsinə, estrogen hormonunun ifrazına",
+        "Follikulun inkişafına, yetişməsinə, progesteron hormonunun ifrazına",
+        "Estrogen və progesteronun eyni vaxtda ifrazına",
+        "Yumurtalıqda asiklik dəyişikliyin əmələ gəlməsinə",
+        "Generativ funksiyaların dayanmasına"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Uşaqlığın miomasının xarakterik xüsusiyyətləri:",
+      "Answers": [
+        "Neytral dövrdə müşahidə olunur ",
+        "Eninəzolaqlı əzələ toxumasından inkişaf edir ",
+        "Pubertat dövrdə müşahidə olunur ",
+        "Maliqnizasiyaya meyillidir ",
+        "Xoşxassəli, hormondan asılı şişdir "
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Aşağıdakılardan hansı ginekoloji əməliyyata aid deyil?",
+      "Answers": [
+        "Uşaqlığın ekstirpasiyası",
+        "Tubektomiya",
+        "Ovarioektomiya",
+        "Salpinqooforektomiya",
+        "Appendektomiya"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Aşağıdakılardan hansı uşaqlıq yolu əməliyyatına aid deyil?",
+      "Answers": [
+        "Yumurtalığın rezeksiyası",
+        "Uşaqlıq boynunun plastik əməliyyatı",
+        "Arxa tağdan qarın boşluğunun punksiyası",
+        "Uşaqlıq yolunun ön divarının plastikası (ön kolporafiya)",
+        "Uşaqlıq boynunun elektrokonizasiyası"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Cərrahi blokda işləyən tibb bacısının işinə nə daxil deyil?",
+      "Answers": [
+        "Əməliyyata uyğun alətləri hazırlayır ",
+        "Əməliyyat sahəsini işləyir",
+        "Yuxarı tənəffüs yollarının iltihabında cərrahi bloka daxil olmur",
+        "Yun paltarla və baxilsiz cərrahi bloka daxil olmur",
+        "Kənar əşyaların cərrahi bloka gətirilməsinə yol vermir"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Cərrahi əməliyyatdan sonra yara nahiyəsində hansı ağırlaşma ola bilməz ?",
+      "Answers": [
+        "Tikişlərin sökülməsi",
+        "Qanaxma",
+        "İnfiltrat",
+        "Temperaturun qalxması",
+        "Hematoma"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Dermoid sistlərin müalicəsi hansıdır? ",
+      "Answers": [
+        "İmmunomodulyatorların təyini",
+        "Cərrahi müdaxilə ",
+        "Nəzarət ",
+        "Sorucu terapiyanın təyini",
+        "Fizioterapiya "
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Əməliyyat blokunun aseptika və antiseptikası dedikdə nə başa düşülür?",
+      "Answers": [
+        "Hamısı",
+        "İnfeksiyanın profilaktikası",
+        "Septiki infeksiyanın qarşısının alınması",
+        "Tibb işçilərinin şəxsi gigiyenası",
+        "Blokun sanitar rejimi"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Əməliyyatdan sonra ağırlaşmaların profilaktikasına nə aid deyil?",
+      "Answers": [
+        "Toxumalarla ehtiyatlı davranmaq",
+        "Aseptika qaydalarına riayət etmək",
+        "Əməliyyat vaxtı hemostazın sabit saxlanılması ",
+        "Əməliyyatdan sonra antibakterial terapiya",
+        "Anamnezin toplanması"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Ginekoloji əməliyyatdan sonra tibb bacısı nəyə fikir verməlidir?",
+      "Answers": [
+        "Tənəffüsə",
+        "Hamısına",
+        "Nəbzə",
+        "Sağrının vəziyyətinə",
+        "Uşaqlıq yolu ifrazatına"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Ginekoloji stasionarda hansı şöbə olmur?",
+      "Answers": [
+        "Konservativ",
+        "Cərrahi",
+        "Kosmetoloji",
+        "Qəbul",
+        "Fizioterapiya"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Ginekoloji xəstəliklərdə ağrı hansı nahiyələrə yayıla bilməz?",
+      "Answers": [
+        "Qarının aşağısına",
+        "Omaya",
+        "Sol və sağ qasıq nahiyəsinə",
+        "Ağciyərlərə",
+        "Körpücükaltı nahiyəyə"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Ginekoloji xəstəliklərin hansında təcili əməliyyata ehtiyac duyulur?",
+      "Answers": [
+        "Klimakterik qanaxma",
+        "Yumurtalığın kəskin iltihabı",
+        "Uşaqlığın fibromioması",
+        "Disfunksional uşaqlıq qanaxması",
+        "Uşaqlıqdankənar hamiləlik"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Ginekoloji xəstəyə köçürülən qan orqanizmə hansı təsiri göstərir?",
+      "Answers": [
+        "Qanın laxtalanmasını artırır",
+        "Hamısı",
+        "İtirilən qanın bərpasına səbəb olur",
+        "Maddələr mübadiləsini normaya salır",
+        "Orqanizmin müqavimətini artırır"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Ginekoloji xəstələrdən anemnez toplayarkən nə əsas götürülmür?",
+      "Answers": [
+        "Keçirilmiş ginekoloji xəstəliklər",
+        "Keçirilmiş olan ümumi xəstəliklər",
+        "Aybaşı funksiyasının xarakteri",
+        "Xəstənin necə geyinməsi",
+        "Qonşu orqanların funksiyası"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Ginekoloji xəstələrin əlavə müayinə üsullarına hansı aiddir?",
+      "Answers": [
+        "Anamnezin toplanması",
+        "Sitoloji müayinə",
+        "Güzgülərlə müayinə",
+        "Bimanual (iki əllə) müayinə",
+        "Xarici cinsiyyət orqanlarını nəzərdən keçirmək"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Uşaqlıq boynunun fon xəstəliklərinə aid deyil:",
+      "Answers": [
+        "Sadə leykoplagiya ",
+        "Krauroz",
+        "Ektropion ",
+        "Eritroplagiya ",
+        "Psevdoeroziya "
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Operativ ginekoloji şöbədə hansı xəstəliklər planlı şəkildə əməliyyat oluna bilər?",
+      "Answers": [
+        "Pelvioperitonit",
+        "Uşaqlıqdan kənar hamiləlik",
+        "Yumurtalığın apopleksiyası",
+        "Uşaqlıq yolunun sallanması",
+        "Uşaqlığın perforasiyası"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Qanköçürmə üçün əks göstəriş hansı xəstəlikdir?",
+      "Answers": [
+        "Qan və qan yaradıcı üzvlərin xəstəlikləri",
+        "Əməliyyat zamanı kəskin qanitirmə",
+        "Əməliyyat zamanı və sonrakı dövrdə orqanizmin müqavimətinin aşağı düşməsi",
+        "Tez - tez uzun müddətli qanitirmə",
+        "Hipertoniya xəstəliyinin ağır forması"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Sterilizasiyadan əvvəl tibbi alətlərin işlənməsinin son mərhələsi hansıdır?",
+      "Answers": [
+        "Axar su altında yuyulur",
+        "Qablaşdırılır",
+        "Distilə edilmiş su ilə yaxalanıb, yaxşı qurudulur",
+        "Avtoklavda saxlanılır",
+        "Yuyucu məhlula salınır"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Uşaqlıq miomasının cərrahi müalicəsinə göstəriş deyil:",
+      "Answers": [
+        "Uşaqlığın 18 həftəlik hamiləlik boyda böyüməsi ",
+        "Anemiya ilə müşahidə edilən hiperpolimenoreya ",
+        "1 il ərzində olan sonsuzluq ",
+        "Miomanın sürəti inkişafı",
+        "Hidronefroz"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Androgen preparatları hansı yaşda təyin etmək olar?",
+      "Answers": [
+        "40",
+        "25",
+        "14",
+        "30",
+        "50"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Androgen preparatların təyininə göstəriş hansıdır? ",
+      "Answers": [
+        "Mioma ",
+        "Süd vəzisi şişi",
+        "Uşaqlıq xərçəngi ",
+        "Poliplər",
+        "Servisit"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Ginekoloji xəstələrin əsas müalicə prosedurlarına nə daxil deyil?",
+      "Answers": [
+        "Uşaqlıq yolunun dərmanla işlənməsi",
+        "Uşaqlıq boynunun işlənməsi",
+        "Uşaqlıq yoluna emulsiya və mazla tampon yeridilməsi",
+        "Dərmanla imalə",
+        "Uşaqlıq yoluna xüsusi şamların yeridilməsi"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Ginekoloji xəstələrin konservativ müalicəsinə nə daxil deyil?",
+      "Answers": [
+        "İsti və soyuqla müalicə",
+        "Sidik kisəsinin kateterizasiyası",
+        "Şırınqalama",
+        "Tamponla müalicə",
+        "Uşaqlıqyolu vannaları"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Hansı estrogenlərə aid deyil?",
+      "Answers": [
+        "Estradioldipropionat",
+        "Follikulin",
+        "Sinestrol",
+        "Preqnin",
+        "Mikrofollin"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Hansı xəstəlik palçıqla müalicəyə əks göstərişdir?",
+      "Answers": [
+        "İnfiltratlar",
+        "Xroniki salpinqooforit ",
+        "Adneksit",
+        "Yumurtalıq hipofunksiyası ",
+        "Kəskin endometrit"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Hormonal kontrasepsiya əsasən aybaşının neçənci günündən başlayaraq qəbul edilir?",
+      "Answers": [
+        "Aybaşının 11-ci günü",
+        "Heçbiri",
+        "Aybaşının  5-7 ci günü",
+        "Aybaşı 15-ci günü",
+        "Aybaşının 21-ci günü"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Konservativ ginekologiya şöbəsində hansı xəstəliklər müalicə oluna bilməz?",
+      "Answers": [
+        "Uşaqlıq qanaxmaları",
+        "Uşaqlıq artımlarının iltihabı",
+        "Endometrit",
+        "Uşaqlıqdan kənar hamiləlik",
+        "Disfunksional uşaqlıq qanaxması"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Kurort müalicəsinə əks göstəriş hansıdır?",
+      "Answers": [
+        "Uşaqlıq qanaxmasına meyillilik",
+        "Cinsiyyət üzvlərinin iltihabi xəstəlikləri",
+        "Qan azlığı",
+        "Alqodismenoreya",
+        "Yumurtalıqların funksiyasının zəifliyi"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Müalicəvi gimnastika və massaj üçün aşağıdakılardan hansı göstərişdir?",
+      "Answers": [
+        "Kiçik çanaq toxuma və orqanlarının kəskin və yarımkəskin iltihabı",
+        "Uşaqlığın normadan kiçik olması",
+        "Yüksək hərarət, titrəmə",
+        "Hamiləliyə şübhə",
+        "Cinsiyyət üzvlərinin şişləri"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Palcıq müalicəsinə əks göstəriş nədir?",
+      "Answers": [
+        "Fiksə olunmuş əyri uşaqlıq",
+        "Xroniki salpinqooforit",
+        "Sonsuzluq",
+        "Yumurtalıqların iltihab mənşəli hipofunksiyası",
+        "Zahılıq dövrü"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Qadın məsləhətxanasında qadınlara göstərilən ambulator mama-ginekoloji yardımın funksiyasına nə aid deyil?",
+      "Answers": [
+        "Ginekoloji xəstələrin dispanser müşahidəsi və qeydiyyatı",
+        "Ginekoloji xəstəliklərin aşkara çıxarılması və ambulator müalicəsi",
+        "Xəstələrin stasionar şəraitində müalicəsi",
+        "Ginekoloji xəstələrə həkim tərəfindən təyin edilmiş təyinatların evdə yerinə yetirilməsi",
+        "İşləyən qadınların sağlamlığının qorunmasında iştirak etmək"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Şırınqalamağa əks göstəriş nə zamandır?",
+      "Answers": [
+        "Uşaqlıq boynunun eroziyası",
+        "Uşaqlıq artımlarının xroniki iltihabi",
+        "Endoservisit",
+        "Pelvioperitonitin xroniki bitişmələri",
+        "Uşaqlıq qanaxmaları"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Toxuma terapiyası hansı preparatla aparılır?",
+      "Answers": [
+        "Aloe ",
+        "Amidopirin",
+        "Lidaza ",
+        "Kalsi xlorid",
+        "Cu SO4-missulfat"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Uşaqlığı yığan preparatlar qrupuna nə aid deyil?",
+      "Answers": [
+        "Mammafizin",
+        "Dyufaston",
+        "Epsilon – aminokapron turşusu",
+        "Pituitrin",
+        "Stiptisin"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Uşaqlığı yığan preparatlar qrupuna nə aiddir?",
+      "Answers": [
+        "Mikrofollin",
+        "Estradiol - dipropionat",
+        "Oksitosin ",
+        "Follikulin",
+        "Sinestrol"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Uşaqlıq əzələsinin yığılmasını stimulə edən preparat hansıdır?",
+      "Answers": [
+        "Kalsi xlorid",
+        "Analgin",
+        "Dimedrol",
+        "Metilerqometrin",
+        "Vikosol"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Uşaqlıq yolu tamponlarla müalicəsinə göstəriş hansıdır?",
+      "Answers": [
+        "Yuvenil qanaxma",
+        "Endometrioz ",
+        "Uşaqlıq boynu polipləri",
+        "Kəskin endometrit",
+        "Endoservisit "
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Uşaqlıq yolunun tamponla müalicəsinə əks göstəriş nə ola bilər?",
+      "Answers": [
+        "Parametrit",
+        "Servisit",
+        "Uşaqlıq boynunun həqiqi eroziyası",
+        "Uşaqlıq qanaxması",
+        "Endometrit"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Aşağıdakı səbəblərdən hansı xarici cinsiyyət üzvlərinin zədələnməsinə səbəb ola bilər?",
+      "Answers": [
+        "Doğuş",
+        "Abort",
+        "Piosalpinksin deşilməsi",
+        "Başın uzun müddət çanaq boşluğunda ləngiməsi",
+        "Laporoskopiya"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Svişlərin əmələ gəlməsinə nə səbəb ola bilməz?",
+      "Answers": [
+        "Doğuş travmaları",
+        "Bədxassəli şişlərin dağılması",
+        "Parazitar xəstəliklər",
+        "Doğuşla əlaqəli olmayan zədələnmələri",
+        "Mamalıq və ginekoloji əməliyyatlar "
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Uşaqlığın zədələnməsi hansı alətlə mümkün deyil? ",
+      "Answers": [
+        "Zondla",
+        "Genəldicilərlə",
+        "Abort",
+        "Küretkayla",
+        "Kornsanqla"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Aşağıdakı simptomlardan hansı uşaqlıq miomasının obyektiv simptomlarına aid deyildir?",
+      "Answers": [
+        "Uşaqlığın böyüməsi",
+        "Amenoreya",
+        "Uşaqlığın deformasiyası",
+        "Kələ-kötürlülük",
+        "Qonşu orqanların funksiyasının pozulması"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Hansı xəstəlik uşaqlıq qanaxmasına səbəb olur?",
+      "Answers": [
+        "Endometrit ",
+        "Salpinqooforit",
+        "Pelvioperitonit",
+        "Submikoz mioma",
+        "Endoservisit"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "İntramural mioma üçün hansı əlamət xarakter deyil?",
+      "Answers": [
+        "Sonsuzluq ",
+        "Qanaxma ",
+        "Ovulyasiyanın olmaması ",
+        "Hormonal pozğunluq",
+        "Şikayətlərin olmaması "
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Mioma hansı səbəbdən yarana bilər?",
+      "Answers": [
+        "Abortdan ",
+        "İltihabi",
+        "İnfeksiya",
+        "Hormonal disbalans ",
+        "Amenoreya"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Mioma nədir?",
+      "Answers": [
+        "Selikli qişanın şişi",
+        "Birləşdirici toxumanın şişi",
+        "Əzələ toxumasının xoşxassəli şişi",
+        "Vulvanın şişi",
+        "Uşaqlağın iltihabı"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Miomatoz düyünün nekrozu hansı dövrdə daha çox rast gəlinir?",
+      "Answers": [
+        "Aybaşı tsiklinin ortasında ",
+        "Hamiləlik zamanı, doğuşdan və abortdan sonrakı dövrdə ",
+        "Aybaşı 3-5 gün qalmış ",
+        "Premenopauzal dövrdə ",
+        "Aybaşıdan sonrakı dövrdə "
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Submikoz mioma üçün nə xarakterikdir?",
+      "Answers": [
+        "Ağrılar",
+        "Qonşu orqanların sıxılması ",
+        "İrinləmə ",
+        "Qanaxma ",
+        "Dizurik əlamətlər"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Şiller sınağı aparmaq üçün mama aşağıdakılardan hansını hazırlamalıdır?",
+      "Answers": [
+        "Pereks məhlulu",
+        "Vazelin",
+        "Veroqrafin",
+        "Xloramin",
+        "Lyuqol məhlulu"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Uşaqlıq boynu eroziyasının effektli müalicəsində mama nə edə bilməz?",
+      "Answers": [
+        "Uşaqlıq yolu vannaları",
+        "Uşaqlıq yolunun şırınqalanması",
+        "Məlhəmlərlə tamponlar",
+        "Eroziyanın koaqulyasiyası (yandırılması)",
+        "Qısa dalğalı Ultrabənövşəyi şualandırma"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Uşaqlıq boynunun displaziyasında ən informativ diaqnostik metoddur:",
+      "Answers": [
+        "Uşaqlıq boynu bioptatının histoloji müayinəsi ",
+        "Genişləndirilmiş kolposkopiya ",
+        "Uşaqlıq boynundan götürülən yaxmaların sitoloji müayinəsi ",
+        "Uşaqlıq boynu kanalının vakuum kuretaji ",
+        "Rektovaginal müayinə"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Uşaqlıq mioması icra olunan radikal əməliyyatdır:",
+      "Answers": [
+        "Uşaqlığın çevrilməsi ",
+        "Konservativ miomektomiya",
+        "Uşaqlığın ekstirpasiyası ",
+        "Uşaqlığın, uşaqlıq yolüstü hündürdən amputasiyası",
+        "Laparoskopik mioliz "
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Uşaqlıq miomasına hansı aiddir?",
+      "Answers": [
+        "Daxili",
+        "Subseroz",
+        "Ekstragenital",
+        "Kista",
+        "Ekstrakorporal"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Xoşxassəli şiş hüceyrələrinə nə aiddir?",
+      "Answers": [
+        "Ölümə səbəb olur",
+        "Nekroza uğrayır",
+        "Metastaz verir",
+        "Nekroza uğramır",
+        "Ressedivləşir "
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Xoşxassəli şişlər bədxassəli şişdən nə ilə fərqlənir?",
+      "Answers": [
+        "Orqanizmdə intoksikasiya baş verir",
+        "Metastaz verir",
+        "Ətraf toxumaların və orqanların içinə keçir",
+        "Ölümə səbəb olur",
+        "Metastaz vermir"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Xoşxassəli şişlərə nə aiddir?",
+      "Answers": [
+        "Normal hüceyrənin quruluş və funksiyasına oxşayır",
+        "İltihab altında nekroz verir",
+        "Hüceyrələr çox sürətlə bölünür",
+        "İkincili şiş inkişaf edir",
+        "Qan və limfa vasitəsilə digər üzvlərə yayılır"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Aşağıdakılardan hansı eroziya formasına aid deyil ?",
+      "Answers": [
+        "Sadə ",
+        "Dənəvar ",
+        "Follikuliyar ",
+        "Psevdoeroziya ",
+        "Məməcikli"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Doğmamış qadınlarda eroziyanın müalicəsində nədən istifadə məsləhət deyil?",
+      "Answers": [
+        "Maye azotla doldurma ",
+        "Konservativ",
+        "Elektrokoaqulyasiya",
+        "Vaqotil",
+        "Lazerkoaqulyasiya"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Enktropion hansı səbəbdən meydana çıxır?",
+      "Answers": [
+        "Hormonal pozulma",
+        "Amenoreya ",
+        "İltihabi ",
+        "Uşaqlıq boynu tamlığı pozulduqda",
+        "Eroziya "
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Eroziyanın əmələ gəlməsinə nə səbəb ola bilər?",
+      "Answers": [
+        "Cinsiyyət yolunda yaşayan infeksiyalar",
+        "Cinsiyyət yolunda yaşamayan infeksiyalar",
+        "Cinsi əlaqədən çəkinmə ",
+        "Selikli qişanın qalınlaşması",
+        "Xoşxassəli şişlər"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "İtiuclu kondiloma əsasən cinsiyyət üzvlərinin hansı hissəsində müşahidə edilmir?",
+      "Answers": [
+        "Uşaqlıq boynunda",
+        "Uşaqlıqda",
+        "Uşaqlıq yolunda",
+        "Aralıqda",
+        "Uşaqlıq yolu dəhlizində"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Mama sitoloji müayinə üçün yaxmanı haradan götürməlidir?",
+      "Answers": [
+        "Anusdan",
+        "Uretradan",
+        "Uşaqlıq boynunun səthindən",
+        "Uşaqlıq yolunun yan divarından",
+        "Uşaqlıq yolunun dəhlizindən"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Uşaqlığın vəziyyət anomaliyalarına hansı aid deyil?",
+      "Answers": [
+        "Uşaqlığın deşilməsi",
+        "Uşaqlığın düşməsi",
+        "Uşaqlığın sallanması",
+        "Uşaqlığın əyilməsi",
+        "Uşaqlığın burulması"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Uşaqlıq boynunun müayinəsi üçün hansı üsul istifadə olunur?",
+      "Answers": [
+        "Histeroskopiya",
+        "Kolposkopiya",
+        "Laporoskopiya",
+        "Histerosalpinqoqrafiya",
+        "Hidrotubasiya"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Uşaqlıq yolunun sallanması zamanı qadın əsasən nədən şikayətlənir? ",
+      "Answers": [
+        "Ürək bulanma, qusmadan",
+        "Epiqastral nahiyədə ağrıdan ",
+        "Sidiyini saxlaya bilməməkdən",
+        "Meteorizmdən ",
+        "Uşaqlıq yolundan qanaxmadan"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Alətlərdəki mikroorqanizmlərin tam məhv edilməsi nə zaman mümkündür?",
+      "Answers": [
+        "Dezinfeksiya zamanı",
+        "Sterilizasiyaönü təmizləmə zamanı",
+        "3% -li xloramində isladıldıqda",
+        "Sterilizasiya zamanı",
+        "Kalium permanqanat məhlulunda saxladıqda"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Histerosalpinqoqrafiya aybaşı tsiklinin hansı günündə edilir.",
+      "Answers": [
+        "10-12 gün",
+        "22-23 gün",
+        "18-20 gün",
+        "14-15 gün",
+        "12-13 gün"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Kiçik çanaq üzvlərinin abdominal USM (ultrasəs müayinəsi) –dən əvvəl qadınlara nə məsləhət görülür? ",
+      "Answers": [
+        "Sidik kisəsınə kontrast maye vurulmalıdır",
+        "Sidik kisəsi boş olmalıdır",
+        "Sidik kateterlə boşaldılmalıdır",
+        "Sidik kisəsi dolu olmalıdır",
+        "Təmizləyici imalə olunmalıdır"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Kiçik çanaq üzvlərinin kəskin iltihabi xəstəliklərinin müalicəsində əsasən tətbiq edilmir: ",
+      "Answers": [
+        "desintoksion terapiya ",
+        "geniş təsirli spektrlı antibiotiklər",
+        "antifunqal preparatlar",
+        "nitroimidzalon törəmələri",
+        "fizioterapiya "
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Məcburi muayinə üsullarına nə aid deyil?",
+      "Answers": [
+        "Qarın boşluğunun punksiyası",
+        "Anamnez toplamaq",
+        "Ümumi müayinə",
+        "Ultrasəs müayinısi",
+        "Laborator müayinə"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Pertubasiya nədir?",
+      "Answers": [
+        "Uşaqlıq boşluğuna maye yeridilməsi",
+        "Boruların üfürülməsi",
+        "Uşaqlığın qaşınması",
+        "Uşaqlıq yolundan yaxma götürülməsi",
+        "Uşaqlıq boynunun yoxlanması"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Rentgenoloji müayinə üsullarına hansı aiddir?",
+      "Answers": [
+        "Laporoskopiya",
+        "Historoskopiya",
+        "Kuldoskopiya",
+        "Historosalpinqoqrafiya",
+        "Kolposkopiya"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Daxili cinsiyyət üzvlərinin xərçəngqabağı xəstəliklərinə aid deyil?",
+      "Answers": [
+        "Poliplər ",
+        "Eroziya ",
+        "Mioma ",
+        "Ocaqlı adenomator ",
+        "Atipik hiperplaziya"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Endometriumun hormondan asılı xərçənginin risk amili deyil: ",
+      "Answers": [
+        "Hepatibiliar sistemin xəstəlikləri",
+        "III - IV dərəcəli visseral piylənmə ",
+        "Şəkərli diabet",
+        "Yumurtalığda hormonal aktiv strukturlarının olması ",
+        "Endometriumda atrofik dəyişikliklərin olması "
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Endometriumun xərçəngönü xəstəlikləri və xərçənginin risk amili deyil:",
+      "Answers": [
+        "Uşaqlıqdaxili kontraseptiv vasitələrdən istifadə ",
+        "Davamlı anovulyasiya ",
+        "Piylənmə və arterial hipertenziya ",
+        "Şəkərli diabet ",
+        "Endokrin mənşəli sonsuzluq "
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Endometriumun xərçəngönü xəstəliklərinə aiddir: 1.Sadə atipik hiperplaziya   2.Adenomatoz poliplər  3.Sadə endometrial hiperplaziya  4.Mürəkkəb atipik hiperplaziya   5.Adenomioz  ",
+      "Answers": [
+        "2,3,5",
+        "1,3,5",
+        "2,3,4",
+        "1,2,4",
+        "3,4,5"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Endometriumun xərçəngönü xəstəliyidir:",
+      "Answers": [
+        "Endometriumun vəzili - kistoz hiperplaziyası ",
+        "Endometriumun atipik hiperplaziyası ",
+        "Endometriumun vəzili hiperplaziya",
+        "Endometriumun atrofiyası",
+        "Adenomioz "
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Endometriumun xərçəngqabağı xəstəliklərində hansı əlamətə çox rast gəlinir?",
+      "Answers": [
+        "Metroragiyaya",
+        "İrinli ifrazat ",
+        "Oligomenoreya ",
+        "Amenoreya ",
+        "Alqodismenoreya"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Endometriumun xərçəngqabağı xəstəliklərinə aiddir?",
+      "Answers": [
+        "Salpinqooforit",
+        "Mioma ",
+        "Endometrioz",
+        "Poliplər",
+        "Endometrit"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Endometriumun xərçəngqabağı xəstəliyinin müalicəsində hansı preparatdan istifadə olunur?",
+      "Answers": [
+        "Metotreksat",
+        "Bisillin-5 ",
+        "Levozin ",
+        "Ultrabənövşəyi şüalanma ",
+        "Bisekurin"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Klimaks zamanı xarici qanaxmaya nə səbəb ola bilər?",
+      "Answers": [
+        "Endometriumun qalınlaşması ",
+        "Yumurtalığın kistası",
+        "Salpinqooforit",
+        "Boru abortu",
+        "Şiş ayaqcığının burulması"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Poliklinikaların baxış  otağında işləyən mamanın vəzifəsinə nə aid deyil?",
+      "Answers": [
+        "Süd vəzilərində şişi aşkar etmək",
+        "Süd vəzisinin xəstəliyinə diaqnoz qoymaq",
+        "Süd vəzilərinin profilaktik baxışını aparmaq",
+        "Onkoloji müayinə üçün yaxma götürmək",
+        "Süd vəzilərini əlləmək "
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Polip harada baş verən anomaliyadır?",
+      "Answers": [
+        "Seroz qatdakı qalınlaşmadır",
+        "Əzələ qatından inkişaf edir",
+        "Selikli qişanın altındakı toxumada ",
+        "Uşaqlıq ətrafı toxumadan əmələ gəlir",
+        "Çanaq toxumasında yerləşir"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Polip nədir?",
+      "Answers": [
+        "Əzələ liflərinin yerdəyişməsi",
+        "Əzələ qatının qalınlaşması",
+        "Seroz qatının bir sahədə qalınlaşması ",
+        "Bazal qatın proliferasiyası",
+        "Selikli qişasının hər hansı bir sahədə qalınlaşması"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Uşaqlıq boşluğunu qaşımaq hansı halda göstərişdir?",
+      "Answers": [
+        "Hamiləlik",
+        "Atsiklik uşaqlıq qanaxması",
+        "Subseroz mioma",
+        "Parametrit",
+        "Endometrit"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Leykoplogiyanın diaqnozunda hansı müayinə üsulundan istifadə olunur?",
+      "Answers": [
+        "Punksiya",
+        "Şiller sınağı",
+        "Histeroskopiya",
+        "Zondlama",
+        "Diaqnostik qaşınma"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Leykoplogiyanın əlaməti hansıdır?",
+      "Answers": [
+        "Qusma ",
+        "İfrazat ",
+        "Ağımtıl ləkə",
+        "Qızdırma",
+        "Ağrı"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Xarici cinsiyyət üzvlərinin şişönü xəstəliyi hansıdır?",
+      "Answers": [
+        "Hiperplaziya",
+        "Ektopiya",
+        "Polip",
+        "Leykoplagiya, krauroz",
+        "Sarkoma"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "18 yaşlı qızda sadə seroz sistadenoma zamanı əməliyyatın həcmi:",
+      "Answers": [
+        "Yumurtalığın normal toxuma səviyyəsində rezeksiyası ",
+        "İkinci yumurtalığın biopsiyası ilə adneksektomiya ",
+        "Zədələnmiş tərəfdə adneksektomiya ",
+        "Piyliyin biopsiyası ilə adneksektomiya ",
+        "Uşaqlığın artımlarla birlikdə uşaqlıq yolüstü amputasiyası"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Yumurtalığın epitelial şişlərinə aid deyil:",
+      "Answers": [
+        "Seroz sistadenoma ",
+        "Tekoma ",
+        "Musinoz sitadenoma",
+        "Sistadenokarsinoma",
+        "Brenner şişi"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Yumurtalığın həqiqi şişlərinə aiddir:",
+      "Answers": [
+        "Sarı cismin sisti ",
+        "Follikulyar sistem ",
+        "Paraovarial sist ",
+        "Papilyar sistadenoma ",
+        "Tekalütein sist "
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Yumurtalığın xoşxassəli şişlərinə hansı aid deyil?",
+      "Answers": [
+        "Fibroma ",
+        "Krauroz ",
+        "Androblastoma ",
+        "Disherminoma ",
+        "Sitadenoma"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Yumurtalıqların şişəbənzər törəmələrinə aiddir:",
+      "Answers": [
+        "Disherminoma ",
+        "Dermoid kista",
+        "Sarı cismin sisti ",
+        "Papilyar sistadenoma ",
+        "Sadə seroz sistadenoma "
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Yumurtalıqların xoşxassəli şişlərinin ən effektli diaqnostik üsuludur:",
+      "Answers": [
+        "Laparoskopiya ",
+        "Kompyuter tomoqrafiya ",
+        "Transabdominal exoqrafiya",
+        "Maqnit - rezonans tomoqrafiya ",
+        "Transvaginal exoqrafiya "
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Qarın boşluğu hamiləliyinin neçə forması var?",
+      "Answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Uşaqlıq qanaxmasının hansı forması qadının həyatı üçün çox təhlükəlidir?",
+      "Answers": [
+        "Natamam abort",
+        "Abort təhlükəsi",
+        "Başlanğıc abort",
+        "Uşaqlıq boynu hamiləliyi",
+        "Yolda abort"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Uşaqlıqdan kənar hamiləlikdə hansı əlavə müayinə üsulundan istifadə edilir?",
+      "Answers": [
+        "Histeroskopiya",
+        "Biopsiya ",
+        "Kolposkopiya",
+        "Uşaqlıq boşluğunu qaşımaq",
+        "Arxa tağın punksiyası"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Abdominal dekompressiyaya göstəriş hansıdır?",
+      "Answers": [
+        "Endometrioz",
+        "Mioma ",
+        "Boru sonsuzluğu ",
+        "Retension kista ",
+        "Kəskin salpinqooforit"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Aşağıdakı xəstəliklərdən hansı uşaqlıdan kənar hamiləlik üçün səbəb ola bilər?",
+      "Answers": [
+        "Kolpit",
+        "Vaginit ",
+        "Aplaziya ",
+        "Trixomonoz",
+        "Süzənəkli salpinqooforit"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Aşağıdakılardan hansı uşaqlıqdan kənar hamiləliyin baş verməsi üçün risk amillərinə aiddir?",
+      "Answers": [
+        "Kiçik çanaq orqanlarının operativ müdaxiləsi",
+        "Polip",
+        "Vulvovaginit",
+        "Endoservisit",
+        "Uşaqlıq mioması"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Boru abortunun əlaməti hansıdır?",
+      "Answers": [
+        "8-10-cu həftədən başlayır",
+        "5-6 həftədə başlayır",
+        "Qanlı ifrazatın gəlməsi ",
+        "İrinli ifrazat ",
+        "Yüksək temperatur"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Boru hamiləliyi pozulmasında qadının şikayəti?",
+      "Answers": [
+        "Temperaturun yüksəlməsi ",
+        "Qusma ",
+        "Qarnın aşağısında ağrı ilə başgicəllənmə",
+        "Bel nahiyyəsində ağrılar ",
+        "Qanlı ifrazat "
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Göstərilən simptomlardan hansı boru abortu üçün xarakterik deyil?",
+      "Answers": [
+        "Kəskin, tutma xarakterli ağrılar",
+        "Aybaşının gecikməsi",
+        "Hamiləliyin şübhəli əlamətləri",
+        "Güclü xarici qanaxma",
+        "Dəri örtüklərinin avazıması"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Hansı xəstəlik uşaqlıqdan kənar hamiləliyə səbəb ola bilər?",
+      "Answers": [
+        "Sklerokistoz yumurtalıq",
+        "Bartolinit ",
+        "Vulvit",
+        "Svişlər",
+        "İnfantilizm "
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Nəyə şübhə olduqda mama uşaqlıq yolunun arxa tağının punksiyası üçün alətləri hazırlayır. ",
+      "Answers": [
+        "Adneksit",
+        "Endometrioz",
+        "Boru hamiləliyinin pozulması",
+        "Endometrit",
+        "Xorionepitelioma"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Hansı xəstəlikdə donor qanı köçürmək göstəriş sayıla bilər?",
+      "Answers": [
+        "Ağciyərlərin vərəmi",
+        "Ürəyin dekompensasiyalı qüsuru",
+        "Böyrək çatışmazlığı",
+        "Kəskin qanazlığı",
+        "Hipertoniya xəstəliyinin ağır forması"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "İstifadə olunan iynə ilə müdaxilə zamanı mamanın əli zədələnərsə ilk növbədə nə etməlidir?",
+      "Answers": [
+        "Dərhal əlcəkləri çıxarmalıdır",
+        "Dərini yodla işləməlidir",
+        "Zədələnmiş nahiyədən qanı sıxmalı və yumalı",
+        "Baş tibb bacısını xəbərdar etməlidir",
+        "Sadalananların hamısı"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Miomatoz düyünün uşaqlıq boynunda yerləşdiyi hallarda cərrahi əməliyyatın həcmi: ",
+      "Answers": [
+        "Uşaqlığın uşaqlıq yolu üstü amputasiyası ",
+        "Uşaqlığın ekstripasiyası ",
+        "Uşaqlıq yolundan konservativ miomektomiya ",
+        "Histeroskopiya ",
+        "Miomanın belə yerləşdiyi hallarda əməliyyat olunmur."
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Uşaqlıqdan kənar hamiləliyə aid olmayan simptom hansıdır?",
+      "Answers": [
+        "Kəskin ağrı, azacıq qanlı ifrazatın olması",
+        "Yüksək hərarət, kəskin olmayan ağrı, ürəkbulanma və qusmanın olmaması",
+        "Kəskin ağrı, ürəkbulanma və qusma olur",
+        "Qarının ön divarının əzələsi gərgindir",
+        "Xəstənin xarakter görkəmi"
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Uşaqlıqdan kənar hamiləliyin daha çox lokalizasiya yeri haradır?",
+      "Answers": [
+        "Rudimentar buynuz",
+        "Yumurtalıq",
+        "Uşaqlıq borusu",
+        "Uşaqlıq boynu",
+        "Qarın boşluğu"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Aşağıdakılardan hansı əlavə müayinə üsuluna aid deyil?",
+      "Answers": [
+        "Endoskopik müayinə",
+        "Kolposkopiya",
+        "Qarın boşluğunun punksiyası",
+        "Güzgülərlə müyinə",
+        "Ultra səs müayinə"
+      ]
+    },
+    {
+      "RId": 0,
+      "Title": "Aşağıdakılardan hansı ultrasəs (USM) müayinəsi vasitəsilə təyin edilmir?",
+      "Answers": [
+        "Uşaqlıq boynunun psevdoeroziyası",
+        "Uşaqlıqda fibromatoz düyünlər",
+        "Uşaqlığın anomaliyası",
+        "Uşaqlıqda hamiləlik",
+        "Uşaqlığın endometriozu"
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Bartolinit nədir?",
+      "Answers": [
+        "Uşaqlıq əzələ qişasının iltihabı",
+        "Uşaqlıq yolu girəcəyinin böyük vəzinin iltihabı ",
+        "Uşaqlıq yolunun iltihabı",
+        "Uşaqlıq boynunun iltihabı",
+        "Yumurtalığın iltihabı"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Əsas ginekoloji müayinə üsullarına hansı aiddir?",
+      "Answers": [
+        "Sitoloji müayinə",
+        "Bakterioskopik müayinə",
+        "Aspirasion biopsiya",
+        "Gülləvari maşalarla müayinə",
+        "Güzgülərlə müayinə"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Uşaqlıq boynunun xərçəngönü xəstəliklərinə aiddir:",
+      "Answers": [
+        "Ektropion ",
+        "Servikal kanalın residivləşən polipləri ",
+        "Həqiqi eroziya ",
+        "Displaziya ",
+        "Endometrioz "
+      ]
+    },
+    {
+      "RId": 1,
+      "Title": "Hansı xəstəlik xarici cinsiyyət üzvlərinin xərçəngqabağı xəstəliyinə aid edilir?",
+      "Answers": [
+        "Bartolinit",
+        "Krauroz",
+        "Vulvit",
+        "Sistoadenoma",
+        "Vaginit"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Krauroz ən çox hansı yaş dövründə baş verir?",
+      "Answers": [
+        "Hər yaşda ",
+        "Qız uşaqlarında ",
+        "Reproduktiv dövrdə ",
+        "Menopauza dövründə ",
+        "Neytral dövründə"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Leykoplagiya yerləşmir:",
+      "Answers": [
+        "Cinsiyyət dodaqlarının dərisində ",
+        "Uşaqlıq boynunda ",
+        "Uşaqlıq yolu divarında ",
+        "Vulvanın dərisində ",
+        "Endometriumda "
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Sidik kisəsinin müayinə üsulu hansıdır? ",
+      "Answers": [
+        "Qastroskopiya ",
+        "Rektoromanoskopiya ",
+        "Sistoskopiya",
+        "Kolposkopiya ",
+        "Kolonoskopiya "
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Ümumi müayinə üsullarına nə aid deyil?",
+      "Answers": [
+        "Aykultasiya (qulaq asma)",
+        "Baxış",
+        "Palpasiya (əlləmə)",
+        "Perkussiya (döyəcləmə)",
+        "Güzgülərlə müayinə"
+      ]
+    },
+    {
+      "RId": 4,
+      "Title": "Submukoz miomada ən çox rast gəlinir:",
+      "Answers": [
+        "Amenoreya",
+        "Aybaşı funksiyasının opsomenoreya tipli pozulması",
+        "Qonşu orqanların sıxılması ",
+        "Ağrı sindromu ",
+        "Aybaşıların hiperpolimenoreya tipli pozulmaları "
+      ]
+    },
+    {
+      "RId": 2,
+      "Title": "Subseroz mioma üçün hansı əlamət xarakterikdir?",
+      "Answers": [
+        "Qanaxma ",
+        "Anemiya ",
+        "Qonşu orqanların sıxılması ",
+        "İrinli ifrazatın olması",
+        "Tempraturun qalxması"
+      ]
+    },
+    {
+      "RId": 3,
+      "Title": "Uşaqlığın miomasının ağırlaşması deyil:",
+      "Answers": [
+        "Miomatoz düyünün nekrozu ",
+        "Miomaroz düyünün burulması ",
+        "Uşaqlığın çevrilməsi ",
+        "Ritmik təkrarlanan aybaşıların olması ",
+        "Qonşu orqanların sıxılması "
+      ]
+    }
+  ]
+}

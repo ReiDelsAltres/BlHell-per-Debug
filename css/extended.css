@@ -1,0 +1,67 @@
+﻿.custom-gradient {
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    color: white !important;
+}
+.custom-gradient-opacity75 {
+    background-image: linear-gradient(to right top, #05193775, #004d7a75, #00879375, #00bf7275, #a8eb1275);
+    color: white !important;
+}
+
+.custom-easy {
+    background-color: #71f077;
+    color: white !important;
+}
+
+.custom-easy.op75 {
+    background-color: #71f07775;
+}
+
+/* || STORE PAGES */
+.custom-striped {
+    --first-color-strip: #606dbc;
+    --second-color-strip: #465298;
+
+    background: repeating-linear-gradient( 45deg, var(--first-color-strip), var(--first-color-strip) 10px, var(--second-color-strip) 10px, var(--second-color-strip) 20px );
+    color: white !important;
+}
+    .custom-striped.easy {
+        --first-color-strip: #71f077;
+        --second-color-strip: #4db052;
+    }
+        .custom-striped.easy.op75 {
+            --first-color-strip: #71f07775;
+            --second-color-strip: #4db05275;
+        }
+    .custom-striped.medium {
+        --first-color-strip: #fa871b;
+        --second-color-strip: #cf7016;
+    }
+        .custom-striped.medium.op75 {
+            --first-color-strip: #fa871b75;
+            --second-color-strip: #cf701675;
+        }
+    .custom-striped.hard {
+        --first-color-strip: #f54545;
+        --second-color-strip: #b32d2d;
+    }
+        .custom-striped.hard.op75 {
+            --first-color-strip: #f5454575;
+            --second-color-strip: #b32d2d75;
+        }
+
+    .custom-striped.blank {
+        --first-color-strip: #fffff5;
+        --second-color-strip: #b3b2a4;
+    }
+
+        .custom-striped.blank.op75 {
+            --first-color-strip: #fffff575;
+            --second-color-strip: #b3b2a475;
+        }
+/* || STORE PAGES */
+
+.ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

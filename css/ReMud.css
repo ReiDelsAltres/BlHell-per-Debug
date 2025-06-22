@@ -1,0 +1,37 @@
+﻿.mud-icon-size-3 {
+    font-size: 3rem;
+}
+.mud-icon-size-4 {
+    font-size: 3.5rem;
+}
+.mud-icon-size-5 {
+    font-size: 5rem;
+}
+
+.re-mud-c {
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+    .re-mud-c:before {
+        background: radial-gradient( 800px circle at var(--mouse-x) var(--mouse-y), var(#71f07775), transparent var(20) );
+    }
+
+    .re-mud-c:after {
+        background: radial-gradient( 600px circle at var(--mouse-x) var(--mouse-y), var(#71f07775), transparent var(20) );
+    }
+.re-mud-c:before,
+.re-mud-c:after {
+    border-radius: inherit;
+    content: "";
+    height: 100%;
+    left: 0px;
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    transition: opacity 500ms;
+    width: 100%;
+    pointer-events: none;
+}

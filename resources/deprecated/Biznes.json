@@ -1,0 +1,2004 @@
+{
+  "Questions": [
+    {
+      "Title": "Müəyyən edin, sadalanan göstəricilərdən hansı kəmiyyət əlaməti deyil?   ",
+      "Answers": [
+        "Müəssisənin mülkiyyət forması;",
+        "Ticarət müəssisəsinin əmtəə dövriyyəsinin həcmi;",
+        "Bankın şəxsi kapitalının həcmi;",
+        "ÜDM-un həcmi;",
+        "Adambaşına ÜDM-un həcmi;"
+      ]
+    },
+    {
+      "Title": "Verilənlərdən hansı qeyri-ümumi müşahidənin növlərinə aiddir?",
+      "Answers": [
+        "seçmə müşahidəsi;",
+        "analitik müşahidə;    ",
+        "ekperiment;",
+        "stoxastik müahidə;",
+        "birdəfəlik müşahidə;"
+      ]
+    },
+    {
+      "Title": "Verilənlərdən hansı «Statistika» elminin əsas sahəsi hesab olunur?    ",
+      "Answers": [
+        "Statistikanın ümumi nəzəriyyəsi;",
+        "Ehtimal nəzəriyyəsi;",
+        "Sənaye statistikası;",
+        "Riyazi statistika;",
+        "Qiymət statistikası;"
+      ]
+    },
+    {
+      "Title": "Statsitika müşahidəsi yazıçının və  ya rəssamın müşahidəsindən nə ilə fərqlənir?",
+      "Answers": [
+        "Elmi təşkili və planlılığı ilə;           ",
+        "Müşahidə  vaxtının müxtəlifliyi ilə;",
+        "Müşahidə obyektinin müxtəlifliyi ilə ;",
+        "Müşahidə məqsədinin müxtəlifliyi ilə;",
+        "Müşahidə vahidlərinin sayı ilə;"
+      ]
+    },
+    {
+      "Title": "Verilən variantlarıdan hansı statistika tədqiqatının üçüncü mərhəlsi hesab edilir?            ",
+      "Answers": [
+        "Statistika məlumatların təhlili;",
+        "Yekunlaşdırma və qruplaşdırma;",
+        "Statistika müşahidəsi;",
+        "Qarşılıqlı əlaqələrin öyrənilməsi;",
+        "İnkişaf meylinin müəyyənləşdirilməsi;"
+      ]
+    },
+    {
+      "Title": "Statistika məlumatlarının təhlili zamanı verilən metodlardan hansından istifadə olunmur?     ",
+      "Answers": [
+        "Statistika müşahidəsi;",
+        "Variasiya  göstəriciləri;",
+        "Korrelyasiya-reqressiya;",
+        "Dinamika sralarının işlənilməsi;",
+        "Mütləq və nisbi kəmiyyətlər;"
+      ]
+    },
+    {
+      "Title": "Statistika müşahidəsi zamanı məlumatları toplanılan subyektə nə ad verilir?",
+      "Answers": [
+        "Müşahidə vahidi;",
+        "Statistika məjmusunun vahidi;",
+        "Hesabat vahidi ;",
+        "Uçot vahidi;",
+        "Məjmunun elementi;"
+      ]
+    },
+    {
+      "Title": "Verilənlərdən hansı müşahidənin müddətidir?",
+      "Answers": [
+        "Statistika formulyarlarının doldurulma müddəti;",
+        "Tədqiq olunan məjmunun hər bir vahidi üzrə əlamətlərin qeydə alınma saatı, günü;",
+        "Müşahidənin təşkilindən başlanan müddəti;",
+        "Məlumatların işlənilmə müddəti;",
+        "Kritik an;"
+      ]
+    },
+    {
+      "Title": "Öyrənilən kəmiyyətlərin  faktiki  qiymətləri ilə hesablanılmış qiymətləri arasındakı fərqə nə ad verilir?",
+      "Answers": [
+        "Reprezentativ xəta;",
+        "Qeydə  alma xətası;",
+        "Müşahidənin xətası;",
+        "Sistematik xəta;",
+        "Dövrü xəta;"
+      ]
+    },
+    {
+      "Title": "10. Aparılma müddətinə görə  statsitika müşahidəsinin növünə aiddir:",
+      "Answers": [
+        "Dövrü müşahidə;",
+        "Monoqrafiya müşahidəsi;",
+        "Sənəd;",
+        "Əsas kütlənin müayinəsi;",
+        "Secmə müşahidəsi;"
+      ]
+    },
+    {
+      "Title": "11. Müşahidə prosesində qeydə alınacaq əlamətlərin siyahısı adlanır:",
+      "Answers": [
+        "Müşahidə proqramı;",
+        "Statsitika formulyarı;",
+        "Müşahidə aləti;",
+        "Müşahidə təsnifatı;",
+        "Müşahidə vahidi;"
+      ]
+    },
+    {
+      "Title": "12. Statsitika müşahidəsinin obyekti:",
+      "Answers": [
+        "Öyrənilən hadisə və proses;",
+        "Fərdi əlamətlərə malik ilkin müşahidə vahidləri;",
+        "Elementar vahidin yerləşdiyi mühit;",
+        "Hesabat vahidi;",
+        "Elementar vahidlər yığımı kimi statistik məcmu;"
+      ]
+    },
+    {
+      "Title": "13.Xüsusi təşkil edilmiş statistik müşahidə:",
+      "Answers": [
+        "müşahidənin təşkilati formasındır;",
+        "statistika müşahidəsinin növündür;",
+        "statistika müşahidəsinin üsuludur;",
+        "statistika müşahidəsinin vaxtıdır;",
+        "statistika müşahidəsinin  qeydiyyat blankıdır;"
+      ]
+    },
+    {
+      "Title": "14.Sosial-iqtisada hadisələrin əlaqə və asılılıqlarını aşkar etmək üçün aparılan qruplaşdırma necə adlanır?",
+      "Answers": [
+        "Analitik ;",
+        "Quruluş;",
+        "Tipik;",
+        "Sadə;",
+        "Mürəkkəb;"
+      ]
+    },
+    {
+      "Title": "15.Əlamətin qiymətlərinin vahidlərin sayından asılılığını öyrənmək üçün aparılan qruplaşdırma necə adlanır?",
+      "Answers": [
+        "Bölgü sıraları;",
+        "Quruluş;",
+        "Analitik;",
+        "Tipik;",
+        "Təkrar qruplaşdırma;"
+      ]
+    },
+    {
+      "Title": "16.Verilənlərdən hansı bərabər fasilənin müəyyənləşdirilməsi düsturudur?",
+      "Answers": [
+        "h=(Х_мах-Х_мин)/n;",
+        "hi+1 = hi + a; ",
+        "hi+1 = hi -a;",
+        "R = xmax - xmin;",
+        "n = 1 + 3,322 lq N;"
+      ]
+    },
+    {
+      "Title": "17.Əlamətin kəsilməz dəyişməsi (variasiyası) zamanı qurulur:",
+      "Answers": [
+        "İnterval (fasiləli) variasiya sırası;",
+        "Diskret variasiya sırası;",
+        "Bölgü sırası;",
+        "Dinamika sırası;",
+        "Atributiv bölgü sırası;"
+      ]
+    },
+    {
+      "Title": "18.Əgər iki qruplaşdırma bölünmüş  qrupların sayına görə fərqlənirsə onları hansı qruplaşdırma əsasında müqayisəli şəklə gətirirlər?",
+      "Answers": [
+        "Təkrar qruplaşdırma;",
+        "Mürəkkəb qruplaşdırma;",
+        "Ekstrapolyasiya;",
+        "İnterpolyasiya;",
+        "Sadə qruplaşdırma;"
+      ]
+    },
+    {
+      "Title": "19.Amil və nətijə əlamətləri arasındakı  asılılığı xarakterizə etmək üçün hansı qrafikdən istifadə edilir?",
+      "Answers": [
+        "Xətti;",
+        "Sütun;",
+        "Fiqur-işarələr;",
+        "Dairə;",
+        "Lentvari;"
+      ]
+    },
+    {
+      "Title": "20.Qrupların sayı asılı deyil:",
+      "Answers": [
+        "fasilə kəmiyyətindən ;",
+        "qruplaşdırma əlamətindən;",
+        "məjmunun həjmindn ;",
+        "qruplşdırma əlamətinin variasiya səviyyəsindən;",
+        "tədqiqatın vəzifələrindən;"
+      ]
+    },
+    {
+      "Title": "21. Öyrənilən məcmunun vahidlərinin müəyyən olunmuş əlamətlər üzrə bircinsli qruplara bölünməsi adlanır:",
+      "Answers": [
+        "Qruplaşdırma;",
+        "Təsnifatlaşdırma;",
+        "Yekunlaşdırma;",
+        "Məlumatların statistik işlənməsi;",
+        "Təhlil;"
+      ]
+    },
+    {
+      "Title": "22. Hansı qruplaşdırmanın məqsədi keyfiyyətcə bircinsli qrupların  bölünməsidir?",
+      "Answers": [
+        "Tipoloji (tipik);",
+        "Quruluş;",
+        "Kombinasiyalı;",
+        "Təkrar;",
+        "Analitik;"
+      ]
+    },
+    {
+      "Title": "23.Hansı  qruplaşdırmalarda kəmiyyət əlamətləri qruplaşdırmanın əsasını təşkil edir:",
+      "Answers": [
+        "Quruluş və analitik;",
+        "Analitik və tipik;",
+        "Tipik;",
+        "Quruluş və tipik;",
+        "Hamısında;"
+      ]
+    },
+    {
+      "Title": "24.Qruplaşdırma əlaməti ola bilər:",
+      "Answers": [
+        "Kəmiyyət və Keyfiyyət;",
+        "Keyfiyyət və Diskret;",
+        "Kəmiyyət və Diskret;",
+        "Diskret və Alternativ ;",
+        "Alternativ və Diskret;"
+      ]
+    },
+    {
+      "Title": "25. Variasiya sırası qurulmur:",
+      "Answers": [
+        "Əsas əlamət üzrə ;",
+        "Keyfiyyət əlaməti üzrə;",
+        "Alternativ əlamət üzrə; ",
+        "Atributiv əlamət üzrə;",
+        "Kəmiyyət əlaməti üzrə;"
+      ]
+    },
+    {
+      "Title": "26.Hər bir variantı 25 vahidə qədər azaltsaq, orta kəmiyyət:",
+      "Answers": [
+        "25 vahid azalacaq;",
+        "Dəyişməyəcək;",
+        "25 vahid artacaq;",
+        "25 dəfə azalacaq;",
+        "25 dəfə artacaq;"
+      ]
+    },
+    {
+      "Title": "27.Kəmiyyət əlaməti üzrə qruplaşdırmada qrupların sayı asılıdır: ",
+      "Answers": [
+        "Qruplaşdırma əlamətinin variasiyası səviyyəsindən;",
+        "Tədqiqatın məqsədindən; ",
+        "Məcmunun keyfiyyətindən;",
+        "Amil və nəticə əlamətləri arasındakı əlaqənin sıxlığından;",
+        "Amil və nəticə əlamətləri arasındakı əlaqənin istiqamətindən;"
+      ]
+    },
+    {
+      "Title": "28. Əlamətin kəsilməz variasiyası zamanı qurulur:",
+      "Answers": [
+        "Fasiləli sıra;",
+        "Diskret variasiya sırası;",
+        "Zaman sırası;",
+        "Otributiv sıra;",
+        "Ranjirləşdirilmiş sıra;"
+      ]
+    },
+    {
+      "Title": "29.Verilən nisbi kəmiyyətlərdən hansı öyrənilən hadisənin yayılma dərəcəsini xarakterizə edir?",
+      "Answers": [
+        "İntensivlik;",
+        "Dinamika;",
+        "Quruluş;",
+        "Müqayisə;",
+        "Koordinasiya;"
+      ]
+    },
+    {
+      "Title": "30.Dinamika nisbi kəmiyyəti hansı nisbi kəmiyyətlərin hasilidir?",
+      "Answers": [
+        "Plan-tapşırıq və planın  yerinə yetirilməsi;",
+        "İntensivlik və müqayisə;",
+        "Quruluş və intensivlik;",
+        "Müqayisə və quruluş;",
+        "Koordinasiya  və intensivlik;"
+      ]
+    },
+    {
+      "Title": "31.Müxtəlif obyektlərə aid olan eyni  adlı göstərijinin müqayisəsindən alınan kəmiyyət necə adlanır?",
+      "Answers": [
+        "Müqayisə nisbi kəmiyyəti; ",
+        "Dinamika nisbi kəmiyyəti;",
+        "Quruluş nisbi kəmiyyəti;",
+        "Koordinasiya nisbi kəmiyyəti;",
+        "Mütləq kəmiyyət;"
+      ]
+    },
+    {
+      "Title": "32.Verilənlərdən hansı nisbi kəmiyyət deyil?",
+      "Answers": [
+        "Mütləq artım;",
+        "Quruluş;",
+        "Müqayisə;",
+        "Koordinasiya;",
+        "Dinamika;"
+      ]
+    },
+    {
+      "Title": "33.Plana görə hesabat ilində məhsulun həjmi ötən ilə nisbətən  2,5 % artmaldır. Məhsulun istehsalı planı 3,0 % artıqlaması ilə yerinə  yetirilib. Ötən ildə məhsulun həjminin 25300 min man olduğunu bilərək hesabat ilində faktiki məhsul buraxılışını hesablayın:",
+      "Answers": [
+        "26710,5 min man;",
+        "27700 min man;",
+        "30300 min man;",
+        "26800 min man;",
+        "26715 min man;"
+      ]
+    },
+    {
+      "Title": "34.Müəssisə üzrə iki il üçün işçilərin sayı haqqında aşağıdakı məlumatlar verilmişdir \n[Göstərijilər                          ][Əsas il][Hesabat ili]\n[İşçilərin orta sayı                ][1092    ][1251         ]\n[O cümlədən                        ][           ][                 ]\n[Sürücülər                            ][780     ][900           ]\n[Təmirlə məşğul olan işçilər][312     ][351           ]\nMəlumatlara əsasən  əsas və hesabat dövrləri üzrə koordinasiya nisbi kəmiyyətini hesablayın:",
+      "Answers": [
+        "40, 39;",
+        "45, 40;",
+        "40, 32;",
+        "60, 25;",
+        "79, 12;"
+      ]
+    },
+    {
+      "Title": "35.Nisbi göstərici dedikdə başa düşülür:",
+      "Answers": [
+        "Sosial-iqtisadi hadisəni xarakterizə edən iki göstərici arasındakı kəmiyyət nisbətlərini göstərən ümumiləşdirici göstərici;",
+        "Sosial-iqtisadi hadisəni xarakterizə edən bir neçə göstəricinin cəmindən ibarət olan ümumiləşdirici göstərici;",
+        "Müxtəlif gösəricilərin hasilini;",
+        "Müxtəlif göstəricilərin fərqini;",
+        "Əlamətin səviyyəsi;"
+      ]
+    },
+    {
+      "Title": "36..Hadisənin zamanda dəyişməsini xarakterizə edən nisbi kəmiyyət:                              ",
+      "Answers": [
+        "Dinamika;",
+        "İntensivlik;",
+        "Quruluş;",
+        "Müqayisə;",
+        "Koordinasiya;"
+      ]
+    },
+    {
+      "Title": "37.Planın yerinə yetirilməsi nisbi kəmiyyəti hansı səviyyələrin nisbətidir:",
+      "Answers": [
+        "Hesabat dövründə faktikinin həmin dövrdə planlaşdırılmış səviyyəyə;",
+        "Planlaşdırılmış dövrün əvvəlki dövrdəki faktiki səviyyəyə;",
+        "Hesabat dövrdəki faktiki səviyyənin əsas dövrdəki faktiki səviyyəyə;",
+        "Əsas dövrdəki fatikinin əsas dövrdəki planlaşdırılmış səviyyəyə;",
+        "Heç biri;"
+      ]
+    },
+    {
+      "Title": "38.Plan-tapşırıq nisbi kəmiyyəti:",
+      "Answers": [
+        "Planlaşdırılmış dövrün əvvəlki dövrdəki faktiki səviyyəyə;",
+        "Hesabat dövründə faktikinin həmin dövrdə planlaşdırılmış səviyyəyə;",
+        "Hesabat dövrdəki faktiki səviyyənin əsas dövrdəki faktiki səviyyəyə;",
+        "Əsas dövrdəki fatikinin əsas dövrdəki planlaşdırılmış səviyyəyə;",
+        "Heç biri;"
+      ]
+    },
+    {
+      "Title": " 39. Dinamika nisbi kəmiyyətini hesablayarkən həmişə əsas kimi sabit kəmiyyət götürülür və digərləri onunla müqayisə olunursa, bu:",
+      "Answers": [
+        "Əsas;",
+        "Mərhələli;",
+        "Silsiləvi;",
+        "Aqreqat;",
+        "Sadə;"
+      ]
+    },
+    {
+      "Title": "40.Hər sonrakı səviyyənin özündən əvvəlki ilə müqayisə olunması nəticəsində alınan nisbi göstərici adlanır:",
+      "Answers": [
+        "Silsiləvi;",
+        "Mərhələli;",
+        "Əsas;",
+        "Aqreqat;",
+        "Sadə;"
+      ]
+    },
+    {
+      "Title": "41.«Dövriyyə vəsaitlərinin ümumi dəyərində şəxsi vəsaitlərin hissəsi» göstəricisi hansı nisbi kəmiyyətə aiddir?",
+      "Answers": [
+        "Quruluş;",
+        "Dinamika;",
+        "Koordinasiya;",
+        "Intensivlik;",
+        "Müqayisə;"
+      ]
+    },
+    {
+      "Title": "42. Çəkisi 600 qr. olan 200 min banka tomat sousu  istehsal olunmuşdur. Əgər 400 qr. çəkisi olan bankanı şərti banka  kimi götürsək, şərti banka hesabilə istehsalın  həcmini müəyyən edin:",
+      "Answers": [
+        "300;",
+        "283,5;",
+        "900 ;",
+        "320;",
+        "800;"
+      ]
+    },
+    {
+      "Title": "43.Plana görə məhsul istehsalını əvvəlki illə müqayisədə 20% artırmaq nəzərdə tutulsada faktiki artım 32% təşkil etmişdir. Məhsul istehsalı üzrə planın  artıqlaması ilə yerinə yetərilmə faizini hesablayın:",
+      "Answers": [
+        "12%;",
+        "10%;",
+        "110%;",
+        "100%;",
+        "13%;"
+      ]
+    },
+    {
+      "Title": "44. Aşağıdakılardan hansı  hesabi orta kəmiyyətin  çəkili düsturudur?",
+      "Answers": [
+        "x\\ ̄==(∑▒〖x⋅f〗)/(∑▒f);",
+        "\\overlineХ=(∑▒Х)/н;",
+        "M_e=(n+1)/2;",
+        "\\overlineХ=(∑▒М)/(∑▒М/Х);",
+        "x\\ ̄_h=n/(∑▒1/x);"
+      ]
+    },
+    {
+      "Title": "45.Verilənlərdən hansı quruluş orta kəmiyyəti deyil?",
+      "Answers": [
+        "Həndəsi;",
+        "Mediana;",
+        "Desili;",
+        "Kvartili;",
+        "Moda;"
+      ]
+    },
+    {
+      "Title": "46. Variantların çəkiləri müxtəlif olduqda orta səviyyənin hesablanması orta kəmiyyətin hansı düsturu ilə həyata keçirilir?",
+      "Answers": [
+        "x\\ ̄==(∑▒〖x⋅f〗)/(∑▒f);",
+        "\\overlineХ=(∑▒Х)/н;",
+        "M_e=(n+1)/2;",
+        "\\overlineХ=(∑▒М)/(∑▒М/Х);",
+        "x\\ ̄_h=n/(∑▒1/x);"
+      ]
+    },
+    {
+      "Title": "47. Hesabi orta kəmiyyətin riyazi xassələri əsasında orta kəmiyyətin hesablanmasına nə ad verirlər?",
+      "Answers": [
+        "İxtisar üsulu; ",
+        "Mürəkkəb üsul;",
+        "Müqayisə üsulu;",
+        "Əlaqələndirmə üsulu;",
+        "Qarışıq üsül;"
+      ]
+    },
+    {
+      "Title": "48.Ayrı-ayrı variantların çəkiləri məlum olmadıqda hansı orta kəmiyyət tətbiq edilir?",
+      "Answers": [
+        "Harmonik; ",
+        "Mediana;",
+        "Desili;",
+        "Kvartili;",
+        "Moda;"
+      ]
+    },
+    {
+      "Title": "49.Mediana olan variantda fasilənin aşağı sərhəddinin 110, fasilənin böyüklüyünün 10,sıranın çəkilərinin cəmini 400, mediana olan variantdan əvvəl gələn variantların  artan yekunla çəkilərinin cəmini 73, mediana olan variantın çəkisinin 130 olduğunu bilərək mediananı hesablayın?",
+      "Answers": [
+        "119,7%; ",
+        "127,5%;",
+        "134,8%;",
+        "145,6%;",
+        "144,3%;"
+      ]
+    },
+    {
+      "Title": "50.İş stacına görə fəhlələrin aşağıdakı bölgüsü verilmişdir \n[İş stacı, il     ][ 5-ə qədər][ 5-10][ 10-15][ 15-20]\n[İşçilərin sayı][2              ][6      ][15       ][7        ]\nBu məlumatlara əsasən işçilərin orta iş stacını hesablayın:",
+      "Answers": [
+        "12;",
+        "14;",
+        "10;",
+        "17;",
+        "11;"
+      ]
+    },
+    {
+      "Title": "51.Verilənlərdən hansı hesabi  orta kəmiyyətin sadə  düsturudur?",
+      "Answers": [
+        "\\overlineх=(∑▒х)/н;",
+        "x\\ ̄==(∑▒〖x⋅f〗)/(∑▒f);",
+        "M_e=(n+1)/2;",
+        "\\overlineх=√(к&(∑_(н=1)^н▒〖Х_и〗^к )/н);",
+        "\\overlineх=(∑▒М)/(∑▒М/Х);"
+      ]
+    },
+    {
+      "Title": "52.Verilənlərdən  hansı fasiləli variasiya sıralarında mediananın düsturudur?",
+      "Answers": [
+        "M_e=X_0+d\\ (\\ (\\sum\\of\\ f)/2-S_(m-1))/f_m\\ ;",
+        "M_e=(n+1)/2;",
+        "Q_1=X_Q1+d\\ (\\ 1/4\\ \\sum\\of\\ f-S_(Q1-1))/f_Q1\\ ;",
+        "x\\above-=(\\sum\\of\\begin((x-A)/d)f〗)/(∑ f)⋅d+A;",
+        "M_0=X_0+d\\ (f_2-f_1)/((f_2-f_1)+(f_2-f_3));"
+      ]
+    },
+    {
+      "Title": "53.Sıranın əlamətlərinin bütün qiymətlərini eyni bir kəmiyyət qədər azaltsaq, onda hesabi orta:",
+      "Answers": [
+        "Eyni kəmiyyət qədər azalacaq;",
+        "Eyni dəfə artacaq;",
+        "Dəyişməyəcək;",
+        "Eyni kəmiyyət qədər artacaq;",
+        "Eyni dəfə azalacaq;"
+      ]
+    },
+    {
+      "Title": "54.Sıranın əlamətlərinin bütün qiymətlərini eyni bir kəmiyyət qədər artırsaqsaq, onda hesabi orta:",
+      "Answers": [
+        "Eyni kəmiyyət qədər artacaq;",
+        "Eyni dəfə artacaq;",
+        "Dəyişməyəcək;",
+        "Eyni dəfə azalacaq;",
+        "Eyni kəmiyyət qədər azalacaq;"
+      ]
+    },
+    {
+      "Title": "55. Sıranın əlamətinin bütün qiymətlərini 20 dəfə artırsaq, onda orta kəmiyyət:",
+      "Answers": [
+        "20 dəfə artacaq;",
+        "20 vahid qədər artacaq;",
+        "20 vahid qədər azalacaq;",
+        "20 dəfə azalacaq;",
+        "Dəyişməyəcək;"
+      ]
+    },
+    {
+      "Title": "56.Sıranın hər bir variantı 10 dəfə azaldılmışdır. Bu halda  orta kəmiyyət:",
+      "Answers": [
+        "10 dəfə azalacaq;",
+        "10 dəfə artacaq;",
+        "dəyişməyəcək;",
+        "100 vahid qədər artacaq;",
+        "10 vahid qədər artacaq;"
+      ]
+    },
+    {
+      "Title": "57. Hər birində 5 mütəxəssis olan 4 ekspert qrupu investisiya riskinin səviyyəsini  balla qiymətləndirmişlər {15, 32,28,32}Orta investisiya balını hesablamaq üçün hansı düsturdan istifadə    olunmalıdır:",
+      "Answers": [
+        "Hesabi ortanın sadə düsturundan;",
+        "Xronoloji ortanın  düsturundan;",
+        "Harmonik orta kəmiyyətin sadə düsturundan;",
+        "Harmonik orta kəmiyyətin çəkili düsturundan;",
+        "Həndəsi orta kəmiyyətin sadə düsturundan;"
+      ]
+    },
+    {
+      "Title": "58. 2009-cu ilin yay sessiyasının nəticələri əsasında statistika fənni üzrə tələbələrin bilikləri aşağıdakı kimi qiymətləndirilmişdir\n[Qiymət balı       ][2][3  ][4][5][Cəmi]\n[Tələbələrin sayı][3][17][6][7][33     ]\nBu məlumatlara əsasən tələbələrin orta balı hansı düsturla hesablanılmalıdır:",
+      "Answers": [
+        "Hesabi ortanın çəkili  düsturu ilə;",
+        "Həndəsi orta  düsturu ilə;",
+        "Kvadratik ortanın  düsturu ilə;",
+        "Xronoloji ortanın sadə düsturu ilə;",
+        "Hesabi ortanın sadə düsturu ilə;"
+      ]
+    },
+    {
+      "Title": "59. A əmtəəsinin 1 kq-nın qiyməti uyğun olaraq bazarlarda 5,6,4 man təşkil etmişdir. Məhsulun satışı isə 30,20,50 ton təşkil edərsə, A əmtəəsinin orta satış qiymətini müəyyənləşdirin:",
+      "Answers": [
+        "4,7;",
+        "5,0;",
+        "4,6;",
+        "3,7;",
+        "4,9;"
+      ]
+    },
+    {
+      "Title": "60.Briqadada iş stajları uyğun olaraq 2,4,5,6,7,8,10 olan 7 nəfər vardır. İş stajları uyğun olaraq medianı müəyyən edin:",
+      "Answers": [
+        "6;",
+        "5;",
+        "7; ",
+        "10;",
+        "8;"
+      ]
+    },
+    {
+      "Title": "61.Müəssisədə iş stajları uyğun olaraq 2,4,5,7,8,9,10 olan 7 nəfər vardır. İş stajları uyğun olaraq medianı müəyyən edin:",
+      "Answers": [
+        "7;",
+        "6;",
+        "5;",
+        "10;",
+        "8;"
+      ]
+    },
+    {
+      "Title": "62.Əgər əlamətin bütün fərdi qiymətlərini 5 vahid artırsaq, onda orta kəmiyyət:",
+      "Answers": [
+        "5 vahid artar; ",
+        "5 dəfə azalar;",
+        "5 dəfə artar;",
+        "Dəyişməz;",
+        "Orta kəmiyyətin dəyişməsi haqqında fikir söyləmək olmaz;"
+      ]
+    },
+    {
+      "Title": "63.Əlamətin bütün qiymətlərinin çəkilərini (tezliklərini) 7 dəfə artırsaq, onda orta kəmiyyət:",
+      "Answers": [
+        "Dəyişməz;",
+        "Azalar;",
+        "O-ra bərabər olar;",
+        "Orta kəmiyyət artar;",
+        "Orta kəmiyyətin dəyişməsi haqqında fikir söyləmək  olmaz;"
+      ]
+    },
+    {
+      "Title": "64.Əgər əlamətin bütün qiymətlərinin tezliklərini 10 dəfə azaltsaq, əlamətin qiyməti dəyişməsə, orta  kəmiyyyət:",
+      "Answers": [
+        "dəyişməz;",
+        "5 dəfə azalar;",
+        "5 dəfə artar;",
+        "5 vahid artar;",
+        "5 vahid azalar;"
+      ]
+    },
+    {
+      "Title": "65. Memarlıq universitetinin iki  qrupunun tələblərinin  statistika fənnindən verilən imtahanlarının nəticəsi haqqında aşağıdakı  məlumat verilmişdir\n[Qrupun №-si ][ Imtahan balı][ Tələbələrin sayı]\n[                      ][2 ][3  ][4 ][5 ][                           ]\n[1                    ][3][10 ][13][4][30                  ]\n[2                    ][1][5 ][12][14][32                  ]\nOrta bal hansı qrupda nə qədər təşkil edir:",
+      "Answers": [
+        "3,6 - 4,2 ;",
+        "4,5 - 3,7;",
+        "3,9 - 4,0;",
+        "5,0 - 4,5 ;",
+        "2,5 - 3,5;"
+      ]
+    },
+    {
+      "Title": "66.Fəhlələrin tarif dərəcəsinə görə aşağıdakı  bölgüsü verilmişdir\n[                                       ][1  ][2 ][3   ][4 ][5  ][6 ][  -  ]\n[Fəhlələrin sayı               ][12][28][26][19][12][3][100]\nOrta tarif  dərəcəsini tapın:",
+      "Answers": [
+        "3,00;",
+        "3,5;",
+        "4,76;",
+        "0;",
+        "5;"
+      ]
+    },
+    {
+      "Title": "67.Aşağıdakı bölgü sırası verilmişdir\n[Fəhlələrin tarif dərəcəsi][23456]\n[Fəhlələrin sayı               ][81617197]\nBölgü sırasının növünü müəyyənləşdirin:",
+      "Answers": [
+        "Diskret;",
+        "Fasiləsiz; ",
+        "Atributiv;",
+        "Ranjiləşdirilmiş;",
+        "An;"
+      ]
+    },
+    {
+      "Title": "68.Aşağıdakı bölgü sırası verilmişdir\n[Fəhlələrin tarif dərəcəsi][23456]\n[Fəhlələrin sayı               ][81617197]\nBu məlumatlar əsasında fəhlələrin orta tarif dərəcəsini hesablayın:",
+      "Answers": [
+        "4,01 ;",
+        "4,2;",
+        "2,04;",
+        "5,07 ;",
+        "3,00;"
+      ]
+    },
+    {
+      "Title": "69.Aşağıdakı bölgü sırası verilmişdir\n[Fəhlələrin tarif dərəcəsi][23456]\n[Fəhlələrin sayı               ][81617197]\nBu məlumatlar əsasında  medianı  variant müəyyən edin:",
+      "Answers": [
+        "5;",
+        "4;",
+        "3;",
+        "7;",
+        "2;"
+      ]
+    },
+    {
+      "Title": "70.Hər ayın əvvəlinə dövriyyə vəsaitlərinin qalığı haqqında aşağıdakı məlumatlar verilmişdir1.04 – 2001.05- 2201.06 - 2401.07 – 260Xronoloji orta kəmiyyəti müəyyən edin:",
+      "Answers": [
+        "230;",
+        "235;",
+        "232;",
+        "236;",
+        "231;"
+      ]
+    },
+    {
+      "Title": "71.Müəssisə bir tonu 200,250,300 manata uyğun olaraq 41,42,43 t. xammal almışdır. 1 ton xammalın orta qiymətini tapın:",
+      "Answers": [
+        "250,2;",
+        "252,3;",
+        "253,2;",
+        "215,5;",
+        "217,5;"
+      ]
+    },
+    {
+      "Title": "72. Ilin əvvəlinə müəssisədə 144 fəhlə işləyirdi,  il ərzində 14 nəfər işdən çıxmış, 21 nəfər işə qəbul olunmuşdur. Dinamika nisbi kəmiyyətini hesablayın:",
+      "Answers": [
+        "104,9;",
+        "114,6;",
+        "95,1;",
+        "90,3;",
+        "101,5;"
+      ]
+    },
+    {
+      "Title": "73.2009-cı ildə taxılın faktiki məhsuldarlığı 16,0 ha\\sent olmuşdur. 2010-ci ildə onu 0,7  ha/sent artırmaq nəzərdə tutlmuşdur. Plan tapşırıq nisbi kəmiyyətini hesablayın:",
+      "Answers": [
+        "104,4%;",
+        "95,8%;",
+        "144,4%;",
+        "100,3 %o;",
+        "düzgün cavab yoxdur;"
+      ]
+    },
+    {
+      "Title": "74.Müəssisənin işçilərinin ümumi sayında fəhlələrin xüsusi çəkisi 89% təşkil etmişdir. Bu göstəricini hansı nisbi kəmiyyətə aid etmək olar:",
+      "Answers": [
+        "quruluş; ",
+        "intensivlik;",
+        "koordinasiya;",
+        "müqayisə;",
+        "differensasiya;"
+      ]
+    },
+    {
+      "Title": "75.Variasiya əlaməti – bu əlamət:",
+      "Answers": [
+        "Qiymətlərin bir-birindən fərqlənməsini xarakterizə edir;",
+        "Məcmu vahidlərin mütləq sayını xarakterizə edir;",
+        "Məcmu vahidlərinin nisbi sayını xarakterizə edir;",
+        "Faizlə və ya əmsalla ifadə olunur;",
+        "Heç biri;"
+      ]
+    },
+    {
+      "Title": "76.Variasiya əmsalı göstərir:",
+      "Answers": [
+        "Orta kəmiyyətdən hissə kimi dispersiyanı;",
+        "Amil əlamətinin tərəddüd səviyyəsindən asılı olaraq nəticə əlamətinin faizlə tərəddüd səviyyəsi;",
+        "Əlamətin sərhəd qiymətlərinin orta kəmiyyət ətrafında tərəddüd dərəcəsi;",
+        "Müxtəlif göstəricilərin orta tərəddüd dərəcəsi;",
+        "Hadisə və proseslərin qarşılıqlı əlaqələrini;"
+      ]
+    },
+    {
+      "Title": "77.\\mu=\\sqrt(\\mu^2\\ )=\\sqrt(\\delta^2/\\sigma^2\\ )  düsturu ilə hesablanır:",
+      "Answers": [
+        "Empirik korrelyasiya nisbəti;",
+        "Determinasiya əmsalı;",
+        "Variasiya əmsalı;",
+        "Korrelyasiya əmsalı;",
+        "Ossilyasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "78.Tələbələr arasında əlaçıların hissəsi 8%-dir. Əlaçıların hissəsinin dispersiyası və orta kvadratik uzaqlaşması nəyə bərabərdir?",
+      "Answers": [
+        "0,074 | 0,271;",
+        "0,920 | 0,959;",
+        "0,500 | 0,707;",
+        "0,628 | 0,932;",
+        "0,097 | 0,052;"
+      ]
+    },
+    {
+      "Title": "79. Qrup dispersiyaları 6,1; 6,5 və 7,2 min manat təşkil edir. Əlamətin çəkiləri uyğun  olaraq 9,10 və 11-dir. Orta qrupdaxili dispersiyanı tapın:",
+      "Answers": [
+        "6,63;",
+        "6,60;",
+        "0,66;",
+        "0,76;",
+        "7,76;"
+      ]
+    },
+    {
+      "Title": "80.Məcmu əlamətinin iki qiyməti  vardır: 10, 24 Hesabi orta – 17-ə, orta kvadratik kənarlaşma – 5.1-ə bərabər olarsa variasiya əmsalını tapın:",
+      "Answers": [
+        "30 %;",
+        "20 %;",
+        "11,9%;",
+        "22,1 %;",
+        "4,90 %;"
+      ]
+    },
+    {
+      "Title": "81.Səkkiz saatlıq iş günü əpzində fəhlələr eyni detallar hazırlayırlar. I fəhlə bir detalın hazırlanmasına 10, II fəhlə -15, III fəhlə - 12, IV fəhlə-14, V fəhlə-16 dəqiqə sərf edir. Bir detala orta vaxt sərfini tapmaq üçün hansı düsturdan istifadə etmək olar:",
+      "Answers": [
+        "\\overlineх=(∑▒х)/н;",
+        "x\\ ̄==(∑▒〖x⋅f〗)/(∑▒f);",
+        "M_e=(n+1)/2;",
+        "\\overlineх=√(к&(∑_(н=1)^н▒〖Х_и〗^к )/н);",
+        "\\overlineх=(∑▒М)/(∑▒М/Х);"
+      ]
+    },
+    {
+      "Title": "82.Əlamətin variasiya əmsalı 15%-ə, orta kəmiyyəti isə – 20-yə bərabərdir. Əlamətin dispersiyasını tapın:",
+      "Answers": [
+        "9; ",
+        "3;",
+        "25;",
+        "35;",
+        "225;"
+      ]
+    },
+    {
+      "Title": "83.Fərdi qiymətlərin kvadratlarının ortası 78-ə,  əlamətin dispersiyası isə-42-yə  bərabərdir. Orta kəmiyyətin qiymətini tapın:",
+      "Answers": [
+        "36;",
+        "6;",
+        "120;",
+        "11;",
+        "17;"
+      ]
+    },
+    {
+      "Title": "84.Əgər şərti məcmunu yaşları 20,  30,  40 olan şəxslər təşkil edərsə, əlamətin variasiyasını hansı  göstərici ilə xaratkerizə etmək olar?",
+      "Answers": [
+        "Variasiya genişliyi;",
+        "Orta kvadratik kənarlaşma;",
+        "Orta xətti kənarlaşma;",
+        "Variasiya əmsalı;",
+        "Ossilyasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "85.Nəticə əlamətinin variasiyası üzrə aşağıdakı məlumatlar var Orta qrupdaxili dispersiya – 360, ümumi dispersiya – 1000.Empirik korrelyasiya nisbətini hesablayın:",
+      "Answers": [
+        "0,8;",
+        "0,6;",
+        "0,75-0,80;",
+        "0,80 və daha çox;",
+        "0,6 və daha çox;"
+      ]
+    },
+    {
+      "Title": "86. Verilən variantlardan düzgün olanını göstərin:",
+      "Answers": [
+        "Variasiya əlamətin qiymətinin zaman və məkan dəyişməsidir;",
+        "Variasiya statistika məcmusunun quruluşunun məkanda dəyişməsidir;",
+        "Variasiya kütləvi hadisələrin zamanda dəyişməsidir;",
+        "Variasiya məjmunun tərkibinin dəyişməsidir;",
+        "Variasiya məjmu vahidlərinin sayının dəyişməsidir;"
+      ]
+    },
+    {
+      "Title": "87.Variasiya əmsalı nəyi xarakterizə edir?",
+      "Answers": [
+        "Əlamətin variasiya diapazonunu;",
+        "Əlamətin variasiya səviyyəsini;",
+        "Əlamətlər arasındakı əlaqənin sıxlığını;",
+        "Əlamətin tərəddüd sərhədlərini;",
+        "Hadisənin inkişaf qanunauyğunluqlarını;"
+      ]
+    },
+    {
+      "Title": "88.Əlmətin bütün qiymətlərini 15 dəfə artırsaq, onda dispersiya:",
+      "Answers": [
+        "225 dəfə artacaq;",
+        "15 dəfə yüksələcək;",
+        "Dəyişməyəcək;",
+        "225 dəfə azalar ;",
+        "15 dəfə azalar ;"
+      ]
+    },
+    {
+      "Title": "89.Qruplar daxilində variantlar arasında fərq yoxdursa qruplararası dispersiya nəyə bərabərdir?",
+      "Answers": [
+        "Ümumi dispersiyaya;",
+        "Sıfra;",
+        "Sıfırla vahid arasında dəyişir;",
+        "VahidəE) Qrup dispersiyalarının orta səviyyəsinə;",
+        ""
+      ]
+    },
+    {
+      "Title": "90.Statistikada orta kvadratik uzaqlaşmanın orta səviyyəyə nisbətinin faizlə ifadəsindən alınana göstəriciyə nə ad verirlər?",
+      "Answers": [
+        "Variasiya əmsalı; ",
+        "Mütləq kəmiyyət;",
+        "Elastiklik əmsalı;",
+        "Tələb;",
+        "Variasiya əmsalı və elstiklik əmsalı;"
+      ]
+    },
+    {
+      "Title": "91.Bir amil əlaməti üzrə qruplaşdırmanı həyata keçirərkən parçalanmış variasiya hansı dispersiya göstəriciləri vasitəsilə öyrənilir ?",
+      "Answers": [
+        "Ümumi, qrupdaxili və qruplararası dispersiya; ",
+        "Qrupdaxili dispersiya;",
+        "Orta qrupdaxili dispersiya;",
+        "Ümumi dispersiya;",
+        "Alternativ dispersiya;"
+      ]
+    },
+    {
+      "Title": "92.Qruplaşdırmanın əsasında duran amil əlamətinin təsiri nəticəsində nəticə əlamətinin variasiyasını hansı göstərici xarakterizə edir?",
+      "Answers": [
+        "\\delta\\ ̄^2=(∑▒〖(x\u00A0̄_i-x\u00A0̄)^2 〗⋅f_i)/(∑▒f_i );",
+        "\\eta^2=\\delta^2/\\sigma^2\\ ;",
+        "\\eta=\\sqrt(\\delta^2/\\sigma^2\\ );",
+        "\\sigma^2=\\ \\sigma_i^2+\\sigma^2;",
+        "\\sigma_i^2=\\frac{\\sum{\\sigma_i^2*f_i}}{\\sumf_i} ;"
+      ]
+    },
+    {
+      "Title": "93.Hadisənin tərəddüdünü ölçmək üçün  hansı göstəricidən istifadə edilir?",
+      "Answers": [
+        "Variasiya əmsalından;",
+        "Determinasiya əmsalından;",
+        "Korrelyasiya əmsalından;",
+        "Fexner əmsalından;",
+        "Assosiasiya əmsalından;"
+      ]
+    },
+    {
+      "Title": "94.Aşağıdakılardan hansı determinasiya əmsalının mahiyyətinə uyğun gəlir?",
+      "Answers": [
+        "Öyrənilən amilin təsiri altında nəticə əlamətinin variasiyasının çəkisini;",
+        "Bütün amillərin təsiri altında formalaşan variasiyanı;",
+        "Tədqiq olunan hadisələr arasında əlaqənin sıxlıq  səviyyəsini;",
+        "Tədqiq olunan amildən başqa digər amillərin təsiri altında formalaşın variasiyanı;",
+        "Qruplararası variasiyanı;"
+      ]
+    },
+    {
+      "Title": "95.Bunlardan hansı ossilyasiya əmsalıdır? ",
+      "Answers": [
+        "V_g=R/x\\above-\\ \\cdot100%;",
+        "V_\\sigma=\\sigma/x\\above-\\ \\cdot100%;",
+        "V_{\\buildrel d\\over d-}=\\frac{\\buildrel d\\over d-}{\\buildrel x\\over x-}\\cdot100%;",
+        "\\sigma^2=\\frac{\\sum{(x-\\bar{x})}^2}{n}",
+        "x==x⋅ff;"
+      ]
+    },
+    {
+      "Title": "96.Bu göstəricilərdən hansı variasiya əmsalının maksimal mümkün qiymətinin düsturudur?",
+      "Answers": [
+        "{V\\sqrt{4-1}}_{max};",
+        "d_{max}\\ =2\\bar{x}-\\frac{2\\bar{x}}{4};",
+        "\\sigma_{max}=\\bar{x}\\sqrt{n-1};",
+        "Аs=3(x-M0)σ;",
+        "E=\\frac{\\mu_4}{\\sigma^4}-3;"
+      ]
+    },
+    {
+      "Title": "97.Əlamətin daha çox rast gəlinən qiyməti necə adlanır?",
+      "Answers": [
+        "Moda ;",
+        "Mediana;",
+        "Kvartil;",
+        "Desil;",
+        "Kvantil;"
+      ]
+    },
+    {
+      "Title": "98.Müxtəlif məcmuların variasiyalarını müqayisə etmək üçün ən doğru xarakteristikanı hansı göstərici verir?",
+      "Answers": [
+        "Variasiya əmsalı;",
+        "Dispersiya;",
+        "Kvartil;",
+        "Orta kvadratik uzaqlaşma;",
+        "Orta xətti uzaqlaşma;"
+      ]
+    },
+    {
+      "Title": "99. Reprezentativliyin sistematik xətası hansı səbəbdən baş verir:",
+      "Answers": [
+        "Seçmənin elmi prinsiplərinin  pozulması;",
+        "Əlaqə kanallarında siqnalların təhrif olunması;",
+        "Seçmənin xətasının son  həddinin hesablanılmasındakı xətalar;",
+        "Seçmənin həcminin hədsiz böyüklüyü;",
+        "Göstəriciləri düzgün yuvarlaqlaşdırılmadıqda;"
+      ]
+    },
+    {
+      "Title": "100. Təsadüfü təkrar seçmədə orta üçün seçmənin  xətası aşağıdakı düsturların hansı ilə hesablanır:",
+      "Answers": [
+        "\\mu=\\ \\ \\sigma/\\sqrt\\ n;",
+        "\\mu=t^2\\bullet\\ \\ \\sigma/n;",
+        "\\mu=\\sigma/m;",
+        "\\mu=\\sqrt(\\begin\\ W(1-W)〗^2/n);",
+        "E=\\frac{\\mu_4}{\\sigma^4}-3;"
+      ]
+    },
+    {
+      "Title": "101.Seçmə xətasının son həddi bu düsturlardan hansı ilə hesablanır:",
+      "Answers": [
+        "Δ=t\\bullet\\mu ;",
+        "Δ=t/\\mu;",
+        "Δ=t+\\mu;",
+        "Δ=t^2/\\sqrt\\mu;",
+        "Δ=t^2·\\mu;"
+      ]
+    },
+    {
+      "Title": "102.W=0,5, t=1, n=100 olduqda baş hissənin yerləşdiyi aralığı tapın:",
+      "Answers": [
+        "0,495<p<0,505;",
+        "0,250<p<0,500;",
+        "0,000<p<0,250;",
+        "0,400<p<0,425;",
+        "0,250<p<0,400;"
+      ]
+    },
+    {
+      "Title": "103.Kiçik seçmə – həcmi:",
+      "Answers": [
+        "30 vahiddən çox deyildir;",
+        "50 vahiddir;",
+        "100-ə qədərdir;",
+        "100-dən çoxdur;",
+        "30-dan çoxdur;"
+      ]
+    },
+    {
+      "Title": "104.Seçmə xətasının həcmi:",
+      "Answers": [
+        "\\sqrt\\ n –ə tərs proporsionaldır;",
+        "\\sqrt\\ n – ə düz proporsionaldır;",
+        "n-ə düz proporsional;",
+        "n-ə tərs proporsional;",
+        "Asılılığı yoxdur;"
+      ]
+    },
+    {
+      "Title": "105.Seçmənin hansı növündə  daha çox reprezentativlik təmin olunur:",
+      "Answers": [
+        "Tipik;",
+        "Seriyalı;",
+        "Təsadüfü;",
+        "Mexaniki;",
+        "Kombinasiyalı;"
+      ]
+    },
+    {
+      "Title": "106.Seçmə müşahidəsinin məlumatlarına görə hər hansı orta kəmiyyət hesablanır. Əgər ehtimal yüksələrsə, xətanın son həddi hansı  istiqamətdə dəyişər?",
+      "Answers": [
+        "Artar;",
+        "Azalar;",
+        "Dəyişməz;",
+        "sifıra bərabərləşər;",
+        "mənfi olar;"
+      ]
+    },
+    {
+      "Title": "107.Tipik seçmə zamanı seçmə xətasının qiyməti az olur. Çünki onu hesablayarkən istifadə olunur:",
+      "Answers": [
+        "Orta qrupdaxili dispersiyadan;",
+        "Qruplararası dispersiyadan;",
+        "Qrupdaxili dispersiyadan;",
+        "Əlamətin ümumi dispersiyadan;",
+        "Desildən;"
+      ]
+    },
+    {
+      "Title": "108.Seçmə xətasının həcmi asılıdır:",
+      "Answers": [
+        "Seçmənin həcmindən;",
+        "Parametrin ölçülmə vahidlərindən;",
+        "Parametrin özünün həcmindən;",
+        "Vahidlərin ifadə formasından;",
+        "Kvartildən;"
+      ]
+    },
+    {
+      "Title": "109.Ehtimal qiymətinin yüksəlməsi:",
+      "Answers": [
+        "Seçmə xətasını artırar;",
+        "Seçmə xətasını azaldar;",
+        "0-ra bərabər edər;",
+        "Dəyişdirməz;",
+        "keyfiyyəti artırar;"
+      ]
+    },
+    {
+      "Title": "110.Verilənlərdən hansı təkrar  qayda ilə tipik seçmədə seçilənlərin zəruri sayının hesablanması düsturudur?",
+      "Answers": [
+        "\\Delta=t\\cdot\\sqrt{\\frac{\\sigma^2}{n}};",
+        "n=\\frac{t^2\\sigma^2}{\\Delta^2};",
+        "W=\\frac{m}{n};",
+        "n=\\frac{t^2\\sigma^2N}{N\\Delta^2+t^2\\sigma^2};",
+        "V_\\sigma=\\frac{\\sigma}{\\buildrel x\\over x-}\\cdot100%;"
+      ]
+    },
+    {
+      "Title": "111.Şəhər telefon şəbəkəsi üzrə təsadüfü seçmə qaydasında 100 müşahidə aparılmış bir telefon danışığının orta müddətinin 5 dəqiqə orta kvadratik kənarlaşmasının 2 dəqiqə olması müəyyənləşdirilmişdir. Telefon danışığının orta müddətini müəyyənləşdirərkən reprezentativ xətanın 18 san-dən çox olmaması ehtimalını tapın:",
+      "Answers": [
+        "p = 0,866;",
+        "p = 0,95;",
+        "p=0,97;",
+        "p = 0,997;",
+        "p= 0,954;"
+      ]
+    },
+    {
+      "Title": "112.Səhmdar cəmiyyətində 200 fəhlə briqdası vardır. Peşə xəstəliyi olan fəhlələrin çəkisini müəyyənləşdirmək məqsədilə  müayinə keçirilmişdir. Məlumdur ki, hissə üçün seriyalararsı dispersiya 225-ə bərabərdir. Seçmənin  xətasının 5 %- dən çox olmaması şərti ilə 0,954 ehtimalla briqadaların zəruri sayını hesablayın:",
+      "Answers": [
+        "30;",
+        "50;",
+        "45;",
+        "40;",
+        "25;"
+      ]
+    },
+    {
+      "Title": "113.Reprezentativliyin sistematik xətası hansı səbəbdən baş verir:",
+      "Answers": [
+        "Seçmənin elmi prinsiplərinin  pozulması;",
+        "Əlaqə kanallarında siqnalların təhrif olunması;",
+        "Seçmənin xətasının son  həddinin hesablanılmasındakı xətalar;",
+        "Seçmənin həcminin hədsiz böyüklüyü;",
+        "Göstəriciləri düzgün yuvarlaqlaşdırılmadıqda;"
+      ]
+    },
+    {
+      "Title": "114.Seçmə xətasının son həddi bu düsturlardan hansı ilə hesablanır:",
+      "Answers": [
+        "Δ=t\\bullet\\mu ;",
+        "Δ=t/\\mu;",
+        "Δ=t+\\mu;",
+        "Δ=t^2/\\sqrt\\mu;",
+        "Δ=t^2·\\mu;"
+      ]
+    },
+    {
+      "Title": "115.Kiçik seçmə – həcmi:",
+      "Answers": [
+        "30 vahiddən çox deyildir;",
+        "50 vahiddir;",
+        "100-ə qədərdir;",
+        "100-dən çoxdur;",
+        "30-dan çoxdur;"
+      ]
+    },
+    {
+      "Title": "116.Seçmənin xətasının son həddi 1%, orta kvadratik kənarlaşma – 5%-dir. 0,954 ehtimalla seçmənin zəruri həcmini müəyyən edin:",
+      "Answers": [
+        "100 vahid;",
+        "200 vahid;",
+        "80 vahid;",
+        "250 vahid;",
+        "170 vahid;"
+      ]
+    },
+    {
+      "Title": "117. İstiqamətinə görə əlaqələr nejə olur?",
+      "Answers": [
+        "Düz;",
+        "Mülayim;",
+        "Düz xətli;",
+        "Xətti;",
+        "Qeyri-xətti;"
+      ]
+    },
+    {
+      "Title": "118.İki əlamət arasındakı əlaqənin istiqamətini və sıxlığını hansı  əmsal xarakterizə edir?",
+      "Answers": [
+        "Qoşa korrelyasiya əmsalı;",
+        "Xüsusi korrelyasiya əmsalı;",
+        "Çoxluq korrelyasiya əmsalı;",
+        "Konkordasiya əmsalı;",
+        "Ranq korrelyasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "119.Korrelyasiya sözünün mənası nədir?",
+      "Answers": [
+        "Nisbət;",
+        "İnkişaf meyli;",
+        "Qanunauyğunluq;",
+        "Göstəriji;",
+        "İstiqamət;"
+      ]
+    },
+    {
+      "Title": "120.Verilən metodların hansı ilə hadisənin inkişaf meylini müəyyənləşdirmək olar?",
+      "Answers": [
+        "Analitik hamarlaşdırma;",
+        "Reqressiya;",
+        "Orta kəmiyyətlər;",
+        "Korrelyasiya;",
+        "İndekslər;"
+      ]
+    },
+    {
+      "Title": "121.Verilən metodlardan hansı hadisələr arasındakı əlaqənin mövcudluğu və istiqamətini müəyyənləşdirməyə imkan verir?",
+      "Answers": [
+        "Qruplaşdırma;",
+        "İndeks;",
+        "Orta kəmiyyətlər;",
+        "Reqressiya;",
+        "Korrelyasiya;"
+      ]
+    },
+    {
+      "Title": "122.Spirmen və Kendelin korrelyasiya əmsalları daha necə adlanır:",
+      "Answers": [
+        "Ranq korrelyasiya əmsalları;",
+        "Qarşılıqlı qovuşma əmsalları;",
+        "Assosiasiya əmsalları;",
+        "Variasiya əmsalları;",
+        "Xətti korellyasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "123.Verilmiş ərazidə yaşayan əhalinin bölgü sırasının  milli mənsubiyyət əlamətinə görə qruplaşdırılması necə adlanır:",
+      "Answers": [
+        "Atributiv;",
+        "Variasiya sırası;",
+        "Alternativ;",
+        "Diskret;",
+        "Fasiləli;"
+      ]
+    },
+    {
+      "Title": "124.Alternativ əlamətin dispersiyası bərabərdir:",
+      "Answers": [
+        "p x q ;",
+        "p+q;",
+        "p – q;",
+        "p : q;",
+        "\\sqrt\\ pq;"
+      ]
+    },
+    {
+      "Title": "125.Variasiyanı öyrənmək və ölçmək üçün aşağıdakı göstəricilərdən istifadə olunmur:",
+      "Answers": [
+        "Kontinğensiya əmsalı;",
+        "Variasiya  genişliyi;",
+        "Orta kvadrtik uzaqlaşma;",
+        "Ossilyasiya əmsalı;",
+        "Variasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "126.Emprik determinasiya əmsalı necə hesablanır?",
+      "Answers": [
+        "Qruplararası dispersiyanın ümumi dispersiyaya nisbəti kimi;",
+        "Qruplaşdırma əlamətinin variasiyası ilə müəyyən olunan öyrənilən əlamətin ümumi variasiyasının nisbətinin kökaltı ifadəsi kimi;",
+        "Qrupdaxili dispersiyanın ümumi dispersiyaya nisbəti kimi;",
+        "Qruplararası dispersiyanın orta qrupdaxili dispersiyaya nisbəti kimi;",
+        "Orta kəmiyyətin ümumi dispersiyaya nisbəti kimi;"
+      ]
+    },
+    {
+      "Title": "127.Qruplararası dispersiya xarakterizə edir:",
+      "Answers": [
+        "Qruplaşdırma əlamətinin variasiyasını ;",
+        "Təsadüfü variasiyanı;",
+        "Nəticə əlamətinin variasiyasını;",
+        "Amil əlamətinin təsiri altında öyrənilən əlamətin kəmiyyətində yaranan fərqləri;",
+        "Bütün amillərin təsiri nəticəsində ümumi variasiyanı;"
+      ]
+    },
+    {
+      "Title": "128.Ən kiçik  kvadratlar üsulu istifadə olunur:",
+      "Answers": [
+        "Reqressiya tənliyinin parametrlərinin qiymətləndirilməsi üçün;",
+        "Əlaqənin analitik ifadəsi üçün;",
+        "Əlaqə sıxlığının kəmiyyət  qiymətləndirilməsi üçün;",
+        "Əlaqənin mövcudluğunu aşkarlamaq üçün;",
+        "Ədaqənin istiqamətini müəyyənləşdirmək üçün;"
+      ]
+    },
+    {
+      "Title": "129.Əgər iki keyfiyyət əlamətləri arasında əlaqə sıxlığı ölçülürsə, onda bu ğöstəricilərin hansından istifadə olunmur?",
+      "Answers": [
+        "Xətti korrelyasiya əmsalı;",
+        "Çuprovun qarşılıqlı qovuşma əmsalı;",
+        "Assosiasiya əmsalı;",
+        "Kontingensiya əmsalı;",
+        "Ranq korrelyasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "130.Amil əlamətinin  bir faiz artması nəticəsində nəticə əlamətinin necə faiz müəyyənləşdirmək üçün zəruridir:",
+      "Answers": [
+        "Elastiklik əmsalını hesablamaq; ",
+        "Analitik qruplaşdırma aparmaq;",
+        "Reqressiya tənliyinin parametrlərini hesablamaq;",
+        "Korrelyasiya əmsalını hesablamaq;",
+        "Determinasiya əmsalını hesablamaq;"
+      ]
+    },
+    {
+      "Title": "131.Bu dispersiya növlərindən hansı biri amil əlamətinin nəticə əlamətinə təsirini xarakterizə edir?",
+      "Answers": [
+        "Qruplararası;",
+        "Qrupdaxili;",
+        "Orta qrupdaxili;",
+        "Ümumi;",
+        "Cəmləmə qaydası;"
+      ]
+    },
+    {
+      "Title": "132. Emprik korrelyasiya nisbəti  aşağıdakı qiymətlərdən birini alır:",
+      "Answers": [
+        "0-dan 1-ə qədər; ",
+        "-1-dən 0-ra;",
+        "-1-dən 1-rə;",
+        "istənilən müsbət;",
+        "0-dan kiçik istənilən;"
+      ]
+    },
+    {
+      "Title": "133.Əlamətlər arasında əlaqənin determinasiya əmsalı 62%-dir. Korrelyasiya əmsalı nəyə bərabərdir?",
+      "Answers": [
+        "0,787;",
+        "0,384;",
+        "0,620;",
+        "0,615;",
+        "Cavab yoxdur;"
+      ]
+    },
+    {
+      "Title": "134. Düz müsbət əlaqə zamanı amil əlamətinin qiyməti azaldıqca nəticə əlamətinin qiyməti:",
+      "Answers": [
+        "Azalır;",
+        "dəyişmir; ",
+        "Artır;",
+        "2 dəfə artır; ",
+        "2 dəfə azalır;"
+      ]
+    },
+    {
+      "Title": "135. Y və X əlamətləri arasında elastiklik əmsalı 1,25%-ə bərabərdir. Bu nə deməkdir:",
+      "Answers": [
+        "X əlamətinin 1% dəyişməsi nəticəsində Y əlaməti 1,25 % dəyişər;",
+        "Y əlamətinin 1% dəyişməsi nəticəsində X əlaməti 1,25% dəyişər;",
+        "X və Y əlamətləri arasında əlaqə  yoxdur; ",
+        "Y əlamətin 1,25% dəyişməsi nəticəsində X əlaməti dəyişməz;",
+        "X əlamətinin 1,25% dəyişməsi nəticəsində  Y əlaməti dəyişməz;"
+      ]
+    },
+    {
+      "Title": "136. Reqressiya tənliyinin qurulması zamanı tənliyin parametrlərini tapmaq üçün statistikada hansı usuldan istifadə olunur?",
+      "Answers": [
+        "Ən kiçik kvadratlar üsulu;",
+        "İndeks üsulu;",
+        "Qrafik usulu;",
+        "Korrelyasiya üsulu;",
+        "Qruplaşdırma üsulu;"
+      ]
+    },
+    {
+      "Title": "137.Amil əlamətinin bərabər inkişaf meyli nəticə əlamətinin qeyri-bərabər inkişafına səbəb olduqda hansı tənliyin istifadə olunması məqsədəuyğundur?",
+      "Answers": [
+        "Parabolanın ikinci qaydası; ",
+        "Hiperbola reqressiya tənliyi;",
+        "Duzxətli əlaqə tənliyi;",
+        "Fexner əmsalı;",
+        "Korrelyasiya nisbəti;"
+      ]
+    },
+    {
+      "Title": "138. Amil əlaməti(x) ilə nəticə (y) əlaməti arasındakı korrelyasiya əlaqəsinin duzxətli olduğunu bilərək aşağıdakı məlumat əsasında elastiklik əmsalını hesablayın.\n[x][54][63][74][90][112][140][190]\n[y][8  ][10][11][13][15  ][17  ][19  ]\n :",
+      "Answers": [
+        "0,6 %;",
+        "0,9 %;",
+        "2,2 %;",
+        "1,5 %;",
+        "0,3%;"
+      ]
+    },
+    {
+      "Title": "139. Nəticə əlaməti ilə qruplaşdırma əlaməti arasında əlaqənin sıxlığını qiymətləndirən göstərici necə adlanır?",
+      "Answers": [
+        "Emprik korrelyasiya nisbəti;",
+        "Deteminik əlaqə;",
+        "Qruplararası  dispersiya;",
+        "Ümumi dispersiya;",
+        "Xətti korrelyasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "140.Tədqiq olunan hadisənin inkişafında hansı amilin daha böyük ehtiyat mənbəyinə malik olduğunu müəyyən etmək üçün hesablanan göstəriciyə nə ad verirlər?",
+      "Answers": [
+        "Beta əmsalı \\left(\\beta_i\\right) ;",
+        "Alfa əmsalı \\left(\\alpha\\right);",
+        "Korrelyasiya əmsalı;",
+        "Orta kvatdratik uzaqlaşma;",
+        "Variasiya genişliyi;"
+      ]
+    },
+    {
+      "Title": "141.Amil əlamətinin 1% dəyəişməsi hesabına nəticə əlamətinin necə faiz dəyişdiyini xarakterizə edən göstəriciyə statistikada nə ad verirlər?",
+      "Answers": [
+        "Elastiklik əmsalı ;",
+        "Kontigensiya əmsalı;",
+        "Assosasiya əmsalı;",
+        "Ranq əmsalı;",
+        "Korrelyasiya nisbəti;"
+      ]
+    },
+    {
+      "Title": "142.Aşağıdakı tənliklərdən hansı hiperbola tənliyi adlanır?",
+      "Answers": [
+        "у\u00A0̄_х=а_о+a_1  1/х;",
+        "yt= ao+a1t+a1t2;",
+        "yt=ao+a1t+a2t2+a3t3;",
+        "yt=aoa1t;",
+        "yt = ao+a1t;"
+      ]
+    },
+    {
+      "Title": "143.Bu metodlardan hansı amil əlamətinin nəticə əlamətinə təsirini aşkarlamağa imkan verir?",
+      "Answers": [
+        "Korrelyasiya təhlili;",
+        "Reqressiya təhlili; ",
+        "İndeks təhlili;",
+        "Dispersiya təhlili; ",
+        "Analitik hamarlaşdırma;"
+      ]
+    },
+    {
+      "Title": "144.Düz müsbət əlaqə zamanı amil əlamətinin qiyməti artdıqca nəticə əlamətinin qiyməti:",
+      "Answers": [
+        "Artır;",
+        "dəyişmir; ",
+        "Azalır;",
+        "2 dəfə artır; ",
+        "2 dəfə azalır;"
+      ]
+    },
+    {
+      "Title": "145.Xarakterinə görə əlaqələr aşağıdakılardan hansıdır?",
+      "Answers": [
+        "Funksional və korrelyasiya;",
+        "Funksional, əyrixətli və düz; ",
+        "Korrelyasiya və tərs;",
+        "statistik və düz; ",
+        "Funksional və statistic;"
+      ]
+    },
+    {
+      "Title": "146.Dinamika sırasının səviyyəsi:",
+      "Answers": [
+        "Müəyyən tarixə və ya zaman anına göstərijinin qiymətidir;   ",
+        "Məjmuda variasiya edən əlamətin müəyyən qiymətidir;",
+        "Göstəricilərin nisbətidir;",
+        "Göstəricilərin siyahısıdır;",
+        "Göstəricinin orta səviyyəsidir;"
+      ]
+    },
+    {
+      "Title": "147.Bərabər fasiləli an dinamika sırasında orta səviyyə hansı düsturun köməyi ilə hesablanır?",
+      "Answers": [
+        "Xronoloci orta kəmiyyətin düsturu ilə; ",
+        "Hesabi orta kəmiyyətin çəkili düsturu ilə;     ",
+        "Elastiklik əmsalı ilə;",
+        "Orta illiki artım göstərijisi ilə;",
+        "Nisbi dəyişmə göstərijisi ilə;"
+      ]
+    },
+    {
+      "Title": "148.Verilənlərdən hansı bir faiz nisbi artımın mütləq göstəricisinin düsturudur?",
+      "Answers": [
+        "\\mathrm{\\Delta}_%=0.01\\cdot\\ y_(i-1); ",
+        "\\mathrm{\\Delta}_%=y_(i-1);",
+        "\\mathrm{\\Delta}_%=y_i/p\\ y_(i-1);           ",
+        "\\mathrm{\\Delta}_%=0.01\\ r/p;",
+        "у\u00A0̄_х=а_о+a_1  1/х;"
+      ]
+    },
+    {
+      "Title": "149.Sosial-iqtisadi hadisələrin uzun dövr üçün inkişaf prosesini xarakterizə etmək üçün hansı göstərijilər hesablanır?",
+      "Answers": [
+        "Orta illik mütləq artım və orta illik artım sürəti; ",
+        "Orta illik nisbi artım;                                  ",
+        "Cəlbetmə əmsalı;",
+        "Orta illik artım sürəti;",
+        "Koordinasiya əmsalı;"
+      ]
+    },
+    {
+      "Title": "150.\\sum\\of\\begin\\ y=266.2〗, n=11, \\sum\\of\\begin\\ yt=158.2〗, \\sum\\of\\begin\\ t^2=110〗 olduğunu bilərək trend modelini qurun:",
+      "Answers": [
+        "y=24.2+1.438t; ",
+        "y=4.2+1.438t;",
+        "y=2+1.438t;                                    ",
+        "y=24.2+11.438t;",
+        "\\rho_E\\ (Χ_i,Χ_j)=√(∑_(l=1)^k▒〖(x_ij-x_ji )^ 〗);"
+      ]
+    },
+    {
+      "Title": "151.Trendi tapmaq üçün aşağıdakı metodlardan hansı tətbiq olunur:",
+      "Answers": [
+        "Sürüşkən orta kəmiyyətlərdən;",
+        "Nisbi artımın hesablanılması;",
+        "1% nisbi artımın mütləq qiyməti;",
+        "Sıranın səviyyələrinin cəmindən;                      ",
+        "Artım sürətinin hesablanılması;"
+      ]
+    },
+    {
+      "Title": "152.Rüblük artım əmsalları: 1,02, 1,015, 1,03,1,025-ə bərabər olarsa, ililk artım əmsalına hesablayın:",
+      "Answers": [
+        "1,023;                          ",
+        "1,093;",
+        "1,006;",
+        "1,011;",
+        "1,019;"
+      ]
+    },
+    {
+      "Title": "153.Orta ililk artım əmsalı 1,02-yə bərabərdir. Orta hesabla rübluk artım əmsalı nəyə bərabərdir?",
+      "Answers": [
+        "0,255;",
+        "0,117;                                      ",
+        "1,010;",
+        "1,005;",
+        "1,001;"
+      ]
+    },
+    {
+      "Title": "154.Rüblük mütləq artımlar 10,8, 12,16-ya bərabər olarsa orta mütləq artımı müəyyən  edin:",
+      "Answers": [
+        "11,5;",
+        "2,5;",
+        "1,5;                               ",
+        "11,7;",
+        "1,9;"
+      ]
+    },
+    {
+      "Title": "155. Üç il üçün mütləq artım 15 vahidə bərabər olmuşdur. Əgər artım sürəti 110% təşkil edərsə,bir faiz nisbi artımın mütləq qiyməti nəyə bərabərdir?",
+      "Answers": [
+        "0,136;",
+        "1,5;",
+        "3,6;                                             ",
+        "0,7;",
+        "1,1;"
+      ]
+    },
+    {
+      "Title": "156.Tikinti məhsulunun ümumi buraxılışının dinamikası haqqında aşağıdakı məlumatlar verilmişdir.\n[2008-ci ilin I rübü][ 2009-cu ilin 1 rübü]\n[1040                     ][1250                        ] Tikintidə ümumi buraxılışın artım sürətini hesablayın:",
+      "Answers": [
+        "1,2 ;",
+        "4,2;                          ",
+        "1,9;                                              ",
+        "0,9;",
+        "2,8;"
+      ]
+    },
+    {
+      "Title": "157.Dinamika sıralarında artım əmsallarını tapmaq üçün orta kəmiyyətin hansı növündən istifadə olunur:",
+      "Answers": [
+        "Həndəsi və kvadratik;",
+        "Quruluş orta kəmiyyətləri;",
+        "Hesabi;                                                  ",
+        "Harmonik;",
+        "Xronoloji;"
+      ]
+    },
+    {
+      "Title": "158.T_p=Y_i/Y_0\\ \\ \\ .100  düsturu ilə  müəyyən edilir:",
+      "Answers": [
+        "Əsas qaydada artım sürətləri;",
+        "Silsiləvi qaydada artım sürətləri;",
+        "Əsas qaydada nisbi artım;                                            ",
+        "Silsiləvi qaydada nisbi artım;",
+        "1% nisbi artımın mütləq qiyməti;"
+      ]
+    },
+    {
+      "Title": "159.Bərabər olmayan zaman fasilələri ilə fasiləli dinamika sırasının orta səviyyəsi hansı kəmiyyətlə müəyyən olunur:",
+      "Answers": [
+        "Hesabi orta kəmiyyətin çəkili düsturu;",
+        "Harmonik orta kəmiyyətin sadə düsturu ilə;",
+        "Xronolojı orta kəmiyyətin sadə  düsturu ilə ;         ",
+        "Hesabi orta kəmiyyətin sadə düsturu ilə;",
+        "Həndəsi orta kəmiyyətin düsturu ilə;"
+      ]
+    },
+    {
+      "Title": "160.Dinamika sırası xarakterizə edir: ",
+      "Answers": [
+        "Əlamətin qiymətinin zamanda dəyişməsini;    ",
+        "Hər hansı bir əlamət üzrə məcmunun quruluşunu;",
+        "Məcmuda variasiya edən əlamətin qiymətinin müəyyənləşdirilməsini;",
+        "Müəyyən tarixə və ya dövrə göstəricinin dəyişməsi amillərini;",
+        "Alternativ bölgü sırasını;"
+      ]
+    },
+    {
+      "Title": "161.Bunlardan hansı 1% nisbi artımın mütləq qiyməti deyil?",
+      "Answers": [
+        "∆_s/∆;",
+        "(y_i-y_i-1)/((y_i-y_i-1)/(y_i-1));",
+        "(y_i-1)/100      ;                               ",
+        "0,01 y_i-1;",
+        "\\ \\ y_i/(y_i-1) · 100;"
+      ]
+    },
+    {
+      "Title": "162. Dəyişən tərkibli indeks 118%-ə quruluş dəyişikliyi indeksi 107 % -ə bərabər olarsa, sabit tərkibli indeksi hesablayın:",
+      "Answers": [
+        "110;  ",
+        "115;  ",
+        "111;  ",
+        "117;  ",
+        "119;"
+      ]
+    },
+    {
+      "Title": "163. Avtonəqliyyat müəssisəsi üzrə yüklərin daşınması haqqında aşağıdakı məlumatlar verilmişdir\n[                                       ][ Yanvar][Fevral][ Mart][ Aprel]\n[Daşınmış yük, mln. man][35         ][ 40     ][   42  ][50      ]\nBu məlumatlara əsasən yük daşımaların orta aylıq artım sürətlərini hesablayın:",
+      "Answers": [
+        "112,6 %;",
+        "127 %;",
+        "115 %;",
+        "117,5 %;",
+        "119 %;"
+      ]
+    },
+    {
+      "Title": "164. «A» müəssisəsində əmək tutumu və məhsul buraxılışı haqqında aşağıdakı məlumatlar verilmişdir\n[Məhsulun növü][ Bir məhsula zaman məsrəfləri, adam-gün][ İstehsal olunmuşdur, ədəd]\n[                         ][ yanvar                        ][ fevral                  ][ yanvar        ][ fevral          ]\n[A                      ][1,0                               ][0,9                       ][458              ][450              ]\n[B                      ][1,2                               ][1,0                       ][311              ][324              ]\n[V                      ][0,9                               ][0,8                       ][765              ][752              ]\n[Yekun              ][x                                  ][x                          ][x                   ][x              ]\nYekunxxxxBu məlumata əsasən əmək tutumu üzrə əmək məhsuldarlığının məcmu indeksini hesablayın:",
+      "Answers": [
+        "113,9 %;",
+        "112,5 %;",
+        "117 %;",
+        "118,7 %;",
+        "119 %;"
+      ]
+    },
+    {
+      "Title": "165.Indekslər hesablanır:",
+      "Answers": [
+        "Kəmiyyətlərin nisbəti;",
+        "Kəmiyyətlərin fərqi;",
+        "Kəmiyyətlərin cəmi;",
+        "Kəmiyyətlərin hasili;",
+        "Kəmiyyətlərin hissəsi;"
+      ]
+    },
+    {
+      "Title": "166.Məcmu vahidlərini əhatə etmə səviyyəsinə görə indekslər:",
+      "Answers": [
+        "Fərdi, qrup və ümumi;",
+        "Fərdi və qrup;",
+        "Fərdi və kütləvi;",
+        "Vahid, qrup və ümumi;",
+        "Vahid və ümumi;"
+      ]
+    },
+    {
+      "Title": "167.Fərdi indekslər  nəyin dəyişməni  xarakterizə edir?",
+      "Answers": [
+        "Ayrı-ayrı bircinsli elementlərin; ",
+        "Məcmunun bütövlükdə dəyişməsini;",
+        "Bircinsli elementlər qrupunun;",
+        "Bircinsli və bircins olmayan elementlərin;",
+        "Bircinsli olmayan elementlərin;"
+      ]
+    },
+    {
+      "Title": "168.Laspeyresin  təklif etdiyi aqreqat qiymət indeksinin düsturu hansıdır?",
+      "Answers": [
+        "I=(\\sum\\of\\begin\\ p_1\\ q_0\\ 〗)/(∑▒〖p_0 q_0 〗) QUOTE I=(\\sum\\of\\beginp_1\\ q_1\\ 〗)/(∑▒〖       ;;;;;p_0 q_0 〗) ; ",
+        "I=(\\sum\\of\\begin\\ p_1\\ q_1\\ 〗)/(∑▒〖p_0 q_1 〗);",
+        "I=(\\sum\\of\\begin\\ p_1\\ q_0\\ 〗)/(∑▒〖p_0 q_0 〗);",
+        "I=(\\sum\\of\\begin\\ p_1\\ q_1\\ 〗)/(∑▒〖p_0 q_0 〗) QUOTE I=(\\sum\\of\\beginp_1\\ q_0\\ 〗)/(∑▒〖;00;p_0 q_0 〗) ; ",
+        "I=(\\sum\\of\\begin\\ p_0\\ q_0\\ 〗)/(∑▒〖p_1 q_0 〗);     "
+      ]
+    },
+    {
+      "Title": "169.Əgər məhsulun fiziki həcmi 20% azalmış, məhsulun dəyəri isə 15% yüksəlmişsə, qiymət indeksi nəyə bərabərdir?",
+      "Answers": [
+        "144%;",
+        "96%;",
+        "92%;",
+        "78%;",
+        "104 %;"
+      ]
+    },
+    {
+      "Title": "170. Məhsul istehsalına məsrəf indeksi 1,033-ə, məhsulun fiziki həcmi indeksi – 1,005-ə bərabərdirsə, maya dəyəri indeksi nəyə bərabərdir?",
+      "Answers": [
+        "1,028;",
+        "0,968;",
+        "1,038;",
+        "0,973;",
+        "1,022;"
+      ]
+    },
+    {
+      "Title": "171.Indekslər arasında hansı qarşılıqlı asılılıq mümkün deyil:",
+      "Answers": [
+        "\\ İ_pq=İ_p: İ_q;",
+        "İ_zq=İ_z. İ_q;",
+        "İ_pq=İ_p. İ_q;",
+        "İ_w=1: İ_T;",
+        "İ_w=İ_q. İ_T;"
+      ]
+    },
+    {
+      "Title": "172.Indekslər təsnifatlaşdırılır:",
+      "Answers": [
+        "qurulma formalarına görə;",
+        "çəkilərinin növlərinə görə;",
+        "ölçü vahidlərinə görə;",
+        "müqayisə bazasına görə;",
+        "surətlərinə görə;"
+      ]
+    },
+    {
+      "Title": "173.Fərdi indeks xarakterizə edir:",
+      "Answers": [
+        "Zamanda və ya məkanda öyrənilən hadisənin dəyişməsini;",
+        "Tamın hissələrinin nisbətlərini;",
+        "Statistik məcmunun bütün vahidlərinin birgə ölçülərinin yekun nəticələrini;",
+        "Adambaşına düşən müxtəlif növ məhsul istehsalının həcmini;",
+        "Düzgün cavab yoxdur;"
+      ]
+    },
+    {
+      "Title": "174.Fiziki həcmin hesabi orta indeksi aşağıdakı düsturların hansı ilə verilir:",
+      "Answers": [
+        "(\\sumİ_q 〖 q〗_o p_o)/(∑〖 q〗_o p_o ) ;",
+        "(\\sumİ_p 〖 p〗_o q_o)/(∑〖 p〗_o q_o );",
+        "(\\sumİ_p p_o q_1)/(∑〖 p_o q〗_1 );",
+        "(\\sum\\begin\\ q〗_1 p_o)/(∑(〖 q〗_1 p_o)/İ_q );",
+        "Düzgün cavab yoxdur;"
+      ]
+    },
+    {
+      "Title": "175.Sabit tərkibli indeks orta kəmiyyətin dinamikasını:",
+      "Answers": [
+        "Ortalaşdırılan əlamətin qiymətlərinin dəyişməsi hesabına;",
+        "Iki amilin dəyişməsi hesabına;",
+        "Məcmunun ümumi həcmində ayrı-ayrı vahidlərin hissəsinin dəyişməsi hesabına;",
+        "Cəkilərin dəyişməsi hesabına;",
+        "Tezliklərin dəyişməsi hesabına;"
+      ]
+    },
+    {
+      "Title": "176.Indeks – bu:",
+      "Answers": [
+        "Bilavasitə cəmlənə  bilməyən elementlərdən ibarət olan mürəkkəb ictimai-iqtisadi hadisələrin zamana və məkana görə dəyişilməsini ifadə edən nisbi göstəricidir;",
+        "Sadə və mürəkkəb hadisənin iki vəziyyətini müqayisə edən nisbi göstəricidir;",
+        "Hadisənin kəmiyyət nisbətlərini ifadə edən nisbi göstəricidir;",
+        "Müəyyən mühitdə hər hansı bir hadisənin yayılma dərəcəsini xarakterizə edən nisbi göstəricidir;",
+        "Ictimai hadisənin həcmini xarakterizə edən kəmiyyətdir;"
+      ]
+    },
+    {
+      "Title": "177.Ticarət nöqtəsi bir adda əmtəə satır. Natural ifadədə satılmış məhsulun dinamikası öyrənilir. Bunun üçün qurulan indeks necə adlanır?",
+      "Answers": [
+        "Fərdi;",
+        "Qruplu;",
+        "Ümumi;",
+        "Keyfiyyət göstəricisi indeksi;",
+        "Həcm göstəricisi indeksi;"
+      ]
+    },
+    {
+      "Title": "178. Kontingensiya əmsalı aşağıdakı düsturlardan hansı ilə hesablanır:",
+      "Answers": [
+        "K_c=(ad-bc)/\\sqrt((a+c)(b+d)(a+b)(c+d)) QUOTE K_c=(ad+bc)/\\sqrt(;(a+b)(b+c)(a+d)(c+d)) ;",
+        "K_c=(ad+bc)/\\sqrt((a+b)(b+c)(a+d)(c+d)) QUOTE Kc=ad-bc;;a+cb+da+b(c+d) ;",
+        "K_c=(ab-dc)/\\sqrt((a+b)(b+c)(a+d)(c+d));",
+        "K_c=(ab+dc)/\\sqrt((a+c)(b+d)(a+b)(c+d));",
+        "K_c=(ac-db)/\\sqrt((a-b)(a+d)(b-d)(c+d));"
+      ]
+    },
+    {
+      "Title": "179.Hesabat dövründə ticarət dövriyyəi əsas dövrlə müqayisədə 10% artmış, qiymətlər bu dövrdə 22% yüksəlmişdir. Satılmış məhsulun həcmi necə dəyişmişdir?",
+      "Answers": [
+        "0,9;",
+        "0,8;",
+        "1,05;",
+        "1,00;",
+        "1,01;"
+      ]
+    },
+    {
+      "Title": "180.2005-ci ilin I və II rübündə «A» əmtəəsinin satışı haqqında aşağıdakı məlumat verilmişdir.\n[Bazarın №-si][ 1 kq qiyməti man][ Satışın həcm       ]\n[                     ][ I rüb      ][ II rüb  ][ I rüb      ][ II rüb  ]\n[1                   ][6,2          ][7,0       ][50          ][35        ]\n[2                   ][8,0          ][9,0       ][40          ][40        ]\n[3                   ][11,0        ][11,8     ][30          ][25        ]\nBu məlumatlar əsasında qiymətin dəyişən tərkibli indeksini müəyyənləşdirin:",
+      "Answers": [
+        "1,125;",
+        "1,152;",
+        "1,251;",
+        "1,225;",
+        "11.25;"
+      ]
+    },
+    {
+      "Title": "181.Əgər dəyişən tərkibli indeks 1,26-ya, quruluş dəyişmələri indeksi isə 1,05-ə bərabərdirsə, sabit tərkibli indeks nəyə bərabərdir:",
+      "Answers": [
+        "1,2;",
+        "0,95;",
+        "1,25;",
+        "1,32;",
+        "1,05;"
+      ]
+    },
+    {
+      "Title": "182.2005-ci ilin I və II rübündə «A» əmtəəsinin satışı haqqında aşağıdakı məlumat verilmişdir.\n[Bazarın №-si][ 1 kq qiyməti man][ Satışın həcm       ]\n[                     ][ I rüb      ][ II rüb  ][ I rüb      ][ II rüb  ]\n[1                   ][6,2          ][7,0       ][50          ][35        ]\n[2                   ][8,0          ][9,0       ][40          ][40        ]\n[3                   ][11,0        ][11,8     ][30          ][25        ]\nBu məlumatlar əsasında qiymətin sabit tərkibli indeksini hesablayın:",
+      "Answers": [
+        "1,108;",
+        "1,22;",
+        "127,0;",
+        "1,25;",
+        "1,31;"
+      ]
+    },
+    {
+      "Title": "183.2005-ci ilin I və II rübündə «A» əmtəəsinin satışı haqqında aşağıdakı məlumat verilmişdir.\n[Bazarın №-si][ 1 kq qiyməti man][ Satışın həcm       ]\n[                     ][ I rüb      ][ II rüb  ][ I rüb      ][ II rüb  ]\n[1                   ][6,2          ][7,0       ][50          ][35        ]\n[2                   ][8,0          ][9,0       ][40          ][40        ]\n[3                   ][11,0        ][11,8     ][30          ][25        ]\nBu məlumatlar əsasında «A» əmtəəsinin orta qiymətinin mütləq dəyişməsini müəyyənləşdirin:",
+      "Answers": [
+        "- 40 ;",
+        "+ 30;",
+        "– 24;",
+        "+14 ;",
+        "+28;"
+      ]
+    },
+    {
+      "Title": "184.Uzunmüddət istehlak əşyalarının satışı haqqında əşyalarının satışı haqqında aşağıdakı məlumatlar verilmişdir\n[Əmtəələr][ Faktiki qiymətlərdə əmtəə satılmışdır, min man][ Əsas dövrə nisbətən qiymətlərin dəyişməsi]\n[               ][ Əsas dövr          ][ Hesabat dövrü           ][ dəyişməsi                                         ]\n[A            ][25                       ][33                               ][ 1,10                                                   ]\n[B            ][35                       ][48                               ][ 1,20                                                   ]\nBu məlumatlar əsasında qiymət indeksini hesablayın:",
+      "Answers": [
+        "1,158;",
+        "1,250;",
+        "1,15;",
+        "1,20;",
+        "1,11;"
+      ]
+    },
+    {
+      "Title": "185.Bu düsturlardan hansı biri orta maya dəyərini hesablamaq üçün istifadə olunur:",
+      "Answers": [
+        "İ_z=(Σ Z_1 q_1)/(Σ q_1 ):  (Σ Z_0 q_0)/(Σ q_0 ); QUOTE İ_z=(Σ Z_1 q_1)/(Σ Z_0 q_1 ) B) İ_z=(Σ Z_1 q_1)/(Σ 1/iz Z_1 q_1 );",
+        "İ_z=(Σ Z_1 q_1)/(Σ q_1 ):  (Σ Z_0 q_1)/(Σ q_1 );",
+        "İ_z=(Σ Z_1 q_1)/(Σ Z_0 q_1 ); QUOTE İ_z=(Σ Z_1 q_1)/(Σ q_1 ):  (Σ Z_0 q_0)/(Σ q_0 ) E)\\ İ_z=İ_p x İ_q;",
+        "",
+        ""
+      ]
+    },
+    {
+      "Title": "186. Müəssisədə istehsalın dəyişmələri haqqında aşağıdan məlumatlar verilmişdir\n[Əmtəələr][ Istehsal olunmuş məh- sulun çəkisi %][ Məhsul istehsalının artması]\n[A            ][60                                                          ][+15                                      ]\n[B            ][40                                                          ][+12                                      ]\nBu məlumatlar əsasında məhsulun fiziki həcm indeksini hesablayın?",
+      "Answers": [
+        "1,138; ",
+        "1,135;",
+        "1,155;",
+        "1,111;",
+        "1,001;"
+      ]
+    },
+    {
+      "Title": "187.Aşağıdakı məlumatlar əsasında sabit tərkibli maya dəyəri indeksini hesablayın\n[Müəssisənin №-si][ Məhsulun həcmi, ədəd][ Məhsul vahidinin maya dəyəri, man       ]\n[                             ][ I rüb         ][ II rüb       ][ I rüb                 ][ II rüb                           ]\n[1                           ][500            ][620           ][80                     ][100                                ]\n[2                           ][1000          ][980           ][75                     ][90                                 ]",
+      "Answers": [
+        "1,220;",
+        "1,500;",
+        "1,224;",
+        "1,075;",
+        "1,015;"
+      ]
+    },
+    {
+      "Title": "188..(\\begin\\ Z〗_0 )\u00A0̅=76,7 man,(Z_1\\ )\\ \\bar = 93,9 man olduğunu bilərək, dəyişən tərkibli maya dəyəri indeksini hesablayın:",
+      "Answers": [
+        "1,224;",
+        "1,500;",
+        "1,075;",
+        "1,228;",
+        "1,015;"
+      ]
+    },
+    {
+      "Title": "189. Seçmənin xətasının son həddi  2%, dispersiya 25-ə bərabərdir.0,997 ehtimalla seçmənin zəruri həcmini müəyyən edin:",
+      "Answers": [
+        "56 vahid;",
+        "25 vahid;",
+        "112 vahid;",
+        "50 vahid;",
+        "33 vahid;"
+      ]
+    },
+    {
+      "Title": "190.Əsas dövrün faktiki əmtəə dövriyyəsi və bir neçə növ əmtəənin satışının fiziki həcminin fərdi indeksləri haqqında məlumatların olduğu halda məhsulun fiziki həcminin ümumi dəyişməsini müəyyənləşdirmək üçün hansı indeksdən istifadə etmək lazımdır:",
+      "Answers": [
+        "Orta hesabi;",
+        "Aqreqat;",
+        "Orta harmonik;",
+        "Dəyişən tərkibli;",
+        "Sabit tərkibli;"
+      ]
+    },
+    {
+      "Title": "191. Verilənlərdən hansı qeyri-ümumi müşahidənin növlərinə aiddir?",
+      "Answers": [
+        "Monoqrafiya;",
+        "Sorğu;",
+        "Müxbir;",
+        "Dövrü;",
+        "Əhali siyahiya alınması ;"
+      ]
+    },
+    {
+      "Title": "192. Öyrənilən məcmunun hissələrinin məcmuya nisbətini xarakterizə edən nisbi kəmiyyət necə adlanır:",
+      "Answers": [
+        "Quruluş;",
+        "İntensivlik;",
+        "Koordinasiya;",
+        "Müqayisə;",
+        "Dinamika;"
+      ]
+    },
+    {
+      "Title": "193. Statsitika formulyarları:",
+      "Answers": [
+        "Statistika müşahidəsinin proqramının sənəd şəklində tərtibi ;",
+        "Müşahidə proqramının  suallarının yerləşdiyi blank;",
+        "Uçota almaq üçün əsas olan elementlər;",
+        "Müşahidənin aparılma müddəti;",
+        "Qeydə alınacaq əlamətlərin cavab toplanılacaq sualların siyahısı;"
+      ]
+    },
+    {
+      "Title": "194. Əlamətin orta kəmiyyəti 120-yə, variasiyanın genişliyi 30-a  bərabərdir. Ossilyasiya əmsalını tapın:",
+      "Answers": [
+        "25%; ",
+        "30%;",
+        "40%;",
+        "12,5%;",
+        "75%;"
+      ]
+    },
+    {
+      "Title": "195. Hesabat dövründə ticarət dövriyyəi əsas dövrlə müqayisədə 20% artmış, qiymətlər bu dövrdə 25% yüksəlmişdir. Satılmış məhsulun həcmi necə dəyişmişdir?",
+      "Answers": [
+        "0,96;",
+        "0,4;",
+        "1,04;",
+        "1,25;",
+        "1,01;"
+      ]
+    },
+    {
+      "Title": "196 Statistika göstəricisi dedikdə nə başa düşülür?",
+      "Answers": [
+        "Öyrənilən hadisənin konkret zaman və məkanda ümumiləşdirilmiş kəmiyyət xarakteristikası;",
+        "Kütləvi ictimai hadisənin keyfiyyətcə müəyyənləşdirilmiş  xarakteristikası;",
+        "Hadisənin zamanda xarakteristikası;",
+        "Hadisənin səviyyəsi;",
+        "Məcmu əlamətinin ayrı-ayrı qiymətləri;"
+      ]
+    },
+    {
+      "Title": "197.Əlamətin variasiya əmsalı 30 %-ə, orta kəmiyyəti isə – 20-yə bərabərdir. Orta kvadratik uzaqlaşmasın  tapın:",
+      "Answers": [
+        "6; ",
+        "15;",
+        "10;",
+        "1,5;",
+        "36;"
+      ]
+    },
+    {
+      "Title": "198.Əlamətin maksimum qiyməti 250-ə, minimum qiyməti qiyməti 200-ə orta kəmiyyəti isə – 100-ə bərabərdir. Ossilyasiya əmsalını tapın:",
+      "Answers": [
+        "50%; ",
+        "25%;",
+        "30%;",
+        "12,5%;",
+        "75%;"
+      ]
+    },
+    {
+      "Title": "199.Əlamətin maksimum qiyməti 250-ə, minimum qiyməti qiyməti 200-ə, orta xətti uzaqlaşma 30-a, orta kəmiyyəti isə – 100-ə bərabərdir. Xətti  variasiya əmsalını tapın:",
+      "Answers": [
+        "30%; ",
+        "25%;",
+        "50%;",
+        "12,5%;",
+        "75%;"
+      ]
+    },
+    {
+      "Title": "200. İstehsal müəssisəsində aparılan təsadüfi sorğu müşahidəsi üçün 100 nəfər seçilmişdir: məlum olmuşdur ki, onlardan 80 nəfər ali təhsili olanlar, 20 nəfər ali təhsili olmayanlardır. Alternativ əlamətin orta kvadratik uzaqlaşması bərabərdir ?",
+      "Answers": [
+        "0, 4; ",
+        "1, 6;",
+        "0,16;",
+        "0,2;",
+        "0,8;"
+      ]
+    }
+  ]
+}
